@@ -28,10 +28,7 @@ http://w4.mostvideo.tv/tv/ch1.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 #EXTINF:0,Int: VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0,Int: Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:0,Int: TvMarti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:0,Int: Voa
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:0,Ni: TVN
@@ -53,8 +50,6 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:0,Es: Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?
 
-#EXTINF:0,Co: Tele Islas
-rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
 #EXTINF:0,Mu: Retro ing
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:0,Int: France 24
@@ -111,8 +106,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:0,Int: Olympic Channel USA
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:0,Int: Latinos Up
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
+
 #EXTINF:0,Int: DW Entrete
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
@@ -120,8 +114,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:0,Int: CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,Pa: NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+
 #EXTINF:0,Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
 #EXTINF:0,Ar: TLX
@@ -147,8 +140,7 @@ http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 
 #EXTINF:0,Cr: Telesur CR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Ho: Campus TV
-http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
 #EXTINF:0,Int: Travel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 
@@ -184,8 +176,7 @@ http://acentotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:0,Do: SuperTv55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-#EXTINF:0,Es: Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
 #EXTINF:0,Mu: MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
@@ -197,13 +188,10 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 
 #EXTINF:0,Co: Redmas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(01)/index.m3u8
-#EXTINF:0,Ar: GarajeTv
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+
 #EXTINF:0,Do: Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 
-#EXTINF:0,Es: EE
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 #EXTINF:0,Mx: Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:0,Mu: Pop.es
