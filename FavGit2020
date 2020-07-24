@@ -1,216 +1,178 @@
 #EXTM3U
 
-#EXTINF:0,Es: La 1
+#EXTINF:0 group-title="Esp",Es: La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-
-#EXTINF:0,Es: 24H
+#EXTINF:0 group-title="Esp",Es: 24H
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-
-#EXTINF:0,Es: ETB Sat
+#EXTINF:0 group-title="Esp",Es: ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0,Es: RTVCE
+#EXTINF:0 group-title="Esp",Es: RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
-#EXTINF:0,Es: La 1
+#EXTINF:0 group-title="Esp",Es: La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-
-#EXTINF:0,Es: 24H
+#EXTINF:0 group-title="Esp",Es: 24H
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-
-#EXTINF:0,Es: Telemadrid
+#EXTINF:0 group-title="Esp",Es: Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:0,Int: Olympic Channel
+#EXTINF:0 group-title="Int",Int: Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:0,Int: MostVideo 
+#EXTINF:0 group-title="Int",Int: MostVideo 
 http://w4.mostvideo.tv/tv/ch1.m3u8
-
-#EXTINF:0,Es: ETB Sat
+#EXTINF:0 group-title="Esp",Es: ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:0,Int: VOA
+#EXTINF:0 group-title="Int",Int: VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:0,Int: Voa
+#EXTINF:0 group-title="Int",Int: Voa
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0,Ni: TVN
+#EXTINF:0 group-title="Ni",Ni: TVN
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:0,Mu: Melody
+#EXTINF:0 group-title="Mus",Mu: Melody
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0,Int: CGTN en
+#EXTINF:0 group-title="Int",Int: CGTN en
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,Co: Envigado
+#EXTINF:0 group-title="Col",Co: Envigado
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:0,Ar: TLX Telemax
+#EXTINF:0 group-title="Ar",Ar: TLX Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0,Es: TVR Santiago
+#EXTINF:0 group-title="Esp",Es: TVR Santiago
 http://canal22santiago.cl/playlist.m3u8
-#EXTINF:0,Es: TR3CE
+#EXTINF:0 group-title="Esp",Es: TR3CE
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:0,Es: Rtv ce
+#EXTINF:0 group-title="Esp",Es: Rtv ce
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0,Es: Real Madrid
+#EXTINF:0 group-title="Esp",Es: Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?
-
-#EXTINF:0,Mu: Retro ing
+#EXTINF:0 group-title="Mus",Mu: Retro ing
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:0,Int: France 24
+#EXTINF:0 group-title="Int",Int: France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:0,Int: Beach TV PanamaCity
+#EXTINF:0 group-title="Int",Int: Beach TV PanamaCity
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-
-#EXTINF:0,Ch: GraciaTv
+#EXTINF:0 group-title="Ch",Ch: GraciaTv
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
-#EXTINF:0,Cr: TeleSur
+#EXTINF:0 group-title="Cr",Cr: TeleSur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Cr: Ticavision
+#EXTINF:0 group-title="Cr",Cr: Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0,Es: Canal 24h
+#EXTINF:0 group-title="Esp",Es: Canal 24h
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8
-#EXTINF:0,Mx: Tele Bachillerato
+#EXTINF:0 group-title="Mx",Mx: Tele Bachillerato
 https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
-#EXTINF:0,Mx: Capacita Tv
+#EXTINF:0 group-title="Mx",Mx: Capacita Tv
 https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
-#EXTINF:0,Mx: Aprende Tv
+#EXTINF:0 group-title="Mx",Mx: Aprende Tv
 https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
-#EXTINF:0,Mx: Ingenio TV
+#EXTINF:0 group-title="Mx",Mx: Ingenio TV
 https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
-
-#EXTINF:0,Cine: Zee Mundo
+#EXTINF:0 group-title="Cine",Cine: Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-
-#EXTINF:0,Ar: Canal4 Jujuy
+#EXTINF:0 group-title="Ar",Ar: Canal4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:0,Ar: TLX
+#EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
-
-#EXTINF:0,Bo: PAT
+#EXTINF:0 group-title="Int",Bo: PAT
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
-#EXTINF:0,Ch: Holvoet 
+#EXTINF:0 group-title="Ch",Ch: Holvoet 
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
-#EXTINF:0,Cr: Extrema
+#EXTINF:0 group-title="Cr",Cr: Extrema
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:0,Rel: Pax TV
+#EXTINF:0 group-title="Rel",Rel: Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:0,Do: Orbit
+#EXTINF:0 group-title="Do",Do: Orbit
 http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
-#EXTINF:0,Do: Telenord
+#EXTINF:0 group-title="Do",Do: Telenord
 http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg
-#EXTINF:0,Do: TVS
+#EXTINF:0 group-title="Do",Do: TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:0,Ve: Telesur
+#EXTINF:0 group-title="Int",Int: Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
-#EXTINF:0,Sa: Wow!
+#EXTINF:0 group-title="Sal",Sa: Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:0,Es: RTVCE
+#EXTINF:0 group-title="Esp",Es: RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0,Int: Olympic Channel USA
+#EXTINF:0 group-title="Int",Int: Olympic Channel USA
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-
-#EXTINF:0,Int: DW Entrete
+#EXTINF:0 group-title="Int",Int: DW Entrete
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0,Pe: Antares TV SD
+#EXTINF:0 group-title="Pe",Pe: Antares TV SD
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0,Int: CGTN ES
+#EXTINF:0 group-title="int",Int: CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0,Ar: TLX
+#EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:0,Ar: TLX
-
+#EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0,Ch: UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:0,Mu: Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
-#EXTINF:0,Int: TeleSUR ve
+#EXTINF:0 group-title="Int",Int: TeleSUR ve
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:0,Mu: Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0,Int: RT
+#EXTINF:0 group-title="Int",Int: RT
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 #EXTINF:0,Ec: UCSG
-
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:,Ur: Canal M
+#EXTINF:0 group-title="Ur",Ur: Canal M
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
-#EXTINF:,Cr: Canal UCR
+#EXTINF:0 group-title="Cr",Cr: Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-
-#EXTINF:0,Cr: Telesur CR
+#EXTINF:0 group-title="Cr",Cr: Telesur CR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:0,Int: Travel HD
+#EXTINF:0 group-title="Int",Int: Travel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-
-#EXTINF:0,Mu: Retro
+#EXTINF:0 group-title="Mus",Mu: Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0,Pe: Antares TV | SD
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0,Int: CGTN ES
+#EXTINF:0 group-title="Int",Int: CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,Cr: Extrema TV
+#EXTINF:0 group-title="Cr",Cr: Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,Mu: RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,Int: DW Entret
+#EXTINF:0 group-title="Int",Int: DW Entret
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Int: TravelHD
+#EXTINF:0 group-title="Int",Int: TravelHD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:0,Ar: TLX
+#EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
-
-#EXTINF:0,Cr: TeleSur cr
+#EXTINF:0 group-title="Cr",Cr: TeleSur cr
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Do: Telenord Canal 14
+#EXTINF:0 group-title="Do",Do: Telenord Canal 14
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
-
-#EXTINF:0,Int: Deutsche Welle
+#EXTINF:0 group-title="Int",Int: Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:0,Mu: Melody Channel
+#EXTINF:0 group-title="Mus",Mu: Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:0,Do: Acento
+#EXTINF:0 group-title="Do",Do: Acento
 http://acentotv01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:0,Do: SuperTv55
+#EXTINF:0 group-title="Do",Do: SuperTv55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-
-#EXTINF:0,Mu: MusicTop
+#EXTINF:0 group-title="Mus",Mu: MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-
-#EXTINF:0,Es: Telesafor
+#EXTINF:0 group-title="Esp",Es: Telesafor
 http://video.telesafor.com/hls/video_low.m3u8
-
-#EXTINF:0,Int: Cultura 24
+#EXTINF:0 group-title="Int",Int: Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-
-#EXTINF:0,Co: Redmas
+#EXTINF:0 group-title="Col",Co: Redmas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(01)/index.m3u8
-
-#EXTINF:0,Do: Vallevision
+#EXTINF:0 group-title="Do",Do: Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-
-#EXTINF:0,Mx: Telemax
+#EXTINF:0 group-title="Mx",Mx: Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:0,Mu: Pop.es
+#EXTINF:0 group-title="Mus",Mu: Pop.es
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
-#EXTINF:0,Ar: Chaco.Ch13
+#EXTINF:0 group-title="Ar",Ar: Chaco.Ch13
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:0,Do: Microvision
+#EXTINF:0 group-title="Do",Do: Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-
-#EXTINF:0,Mx: Canal 10
+#EXTINF:0 group-title="Mx",Mx: Canal 10
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-
-#EXTINF:0,Ar: 13maxhd
+#EXTINF:0 group-title="Ar",Ar: 13maxhd
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-
-#EXTINF:0,Es: RTVCE
+#EXTINF:0 group-title="Esp",Es: RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:0,Cu: TV Marti
+#EXTINF:0 group-title="Int",Int: TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
-
-
