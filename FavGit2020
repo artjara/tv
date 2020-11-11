@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1, 00ipAbominable
+http://192.168.2.55/xx/xvideo/Abominable1080.mp4
+
+#EXTINF:-1, 00ipPretoria
+http://192.168.2.55/xx/xvideo/Pretoria720.mkv
+
+#EXTINF:-1, 00ipAliasJJ
+http://192.168.2.55/xx/xvideo/aliasjj.mp4
+
+#EXTINF:-1, 00ipTemp
+http://192.168.2.55/xx/xvideo/temp.m3u
+
+#EXTINF:-1, 000Abominable
+http://localhost/xx/xvideo/Abominable1080.mp4
+
+#EXTINF:-1, 000Pretoria
+http://localhost/xx/xvideo/Pretoria720.mkv
+
+#EXTINF:-1, 000AliasJJ
+http://localhost/xx/xvideo/aliasjj.mp4
+
+#EXTINF:-1, 000Temp
+http://localhost/xx/xvideo/temp.m3u
+
 #EXTINF:0 group-title="Esp",Es: La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:0 group-title="Esp",Es: 24H
