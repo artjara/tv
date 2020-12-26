@@ -181,3 +181,12 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
 #EXTINF:0 group-title="Int",Int: TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
+
+#EXTINF:0 group-title="Mus",Mu: Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:0 group-title="Cul",Cul: Cultura Para
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:0 group-title="Cul",Cul: Parana Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 group-title="Cul",Cul: Rede premium
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
