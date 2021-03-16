@@ -275,5 +275,11 @@ http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://38.18.238.42:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:0 group-title="Cine y Series", ShortGod UNIVERSAL
 http://38.18.238.35:2095/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series",ShortGod CINE CANAL
+http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series",ShortGod CINE LATINO
+http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 group-title="Cine y Series",ShortGod CINEMAX
+http://38.18.238.42:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
