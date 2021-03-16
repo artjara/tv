@@ -204,7 +204,6 @@ http://38.18.238.42:2095/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9
 #EXTINF:0 group-title="Cultura", ShortGod NatGeo
 http://38.18.238.42:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-
 #EXTINF:0 group-title="Cine y Series", ShortGod STARZ
 http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
 #EXTINF:0 group-title="Cine y Series", ShortGod EDGE
@@ -224,14 +223,12 @@ http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
 #EXTINF:0 group-title="Cine y Series", ShortGod DRAMA
 http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
 
-
 #EXTINF:0 group-title="varios", ShortGod A3SERIES
 http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:0 group-title="Varios", ShortGod CNN EN ESPAÑOL
 http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:0 group-title="Varios", ShortGod FORO TV
 http://23.237.29.98:2095/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
 
 #EXTINF:0 group-title="Cine y Series", ShortGod STAR CLASSICS
 http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
