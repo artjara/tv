@@ -190,3 +190,78 @@ http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0 group-title="Cul",Cul: Rede premium
 https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
+
+#EXTINF:0 group-title="Cultura", ShortGod Discovery 
+http://38.18.238.42:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cultura", ShortGod Discovery SCI
+http://23.237.29.98:2095/9490SCI/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cultura", ShortGod Discovery Teather
+http://38.18.238.35:2095/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cultura", ShortGod Discovery Turbo
+http://23.237.29.98:2095/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 group-title="Cultura", ShortGod Discovery World
+http://38.18.238.42:2095/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cultura", ShortGod NatGeo
+http://38.18.238.42:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
+#EXTINF:0 group-title="Cine y Series", ShortGod STARZ
+http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod EDGE
+http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod COMEDY
+http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod CINEMA
+http://f4.tvxweb.net:8082/24317/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod ENCORE
+http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod ACTION
+http://f4.tvxweb.net:8082/24315/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod BLACK
+http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod WESTERN
+http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
+#EXTINF:0 group-title="Cine y Series", ShortGod DRAMA
+http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
+
+
+#EXTINF:0 group-title="varios", ShortGod A3SERIES
+http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Varios", ShortGod CNN EN ESPAÑOL
+http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Varios", ShortGod FORO TV
+http://23.237.29.98:2095/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
+#EXTINF:0 group-title="Cine y Series", ShortGod STAR CLASSICS
+http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod STAR SERIES
+http://23.237.29.98:2095/660fox1/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod STAR FAMILY
+http://23.237.29.98:2095/665foxFamily/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod CINE CANAL
+http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod CINE LATINO
+http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod TNT
+http://38.18.238.42:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod TNT SERIES
+http://38.18.238.42:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod HBO
+http://38.18.238.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod HBO 2
+http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod HBO +
+http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod HBO FAMILY
+http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod HBO XTREME
+http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod AXN
+http://38.18.238.35:2095/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod A&E
+http://23.237.29.98:2095/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 group-title="Cine y Series", ShortGod WARNER
+http://38.18.238.42:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
