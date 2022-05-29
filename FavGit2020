@@ -1,134 +1,48 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Esp",Es: Antena m3gratis
-https://livestartover.atresmedia.com/antena3/master.m3u8
-
-#EXTINF:0 group-title="Esp",Es: LaSexta m3gratis
-https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:0 group-title="Esp",Es: La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:0 group-title="Esp",Es: 24H
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:0 group-title="Esp",Es: ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0 group-title="Esp",Es: RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:0 group-title="Esp",Es: La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:0 group-title="Esp",Es: 24H
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:0 group-title="Esp",Es: Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:0 group-title="Int",Int: Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:0 group-title="Int",Int: MostVideo 
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:0 group-title="Esp",Es: ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:0 group-title="Int",Int: VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0 group-title="Int",Int: Voa
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0 group-title="Ni",Ni: TVN
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:0 group-title="Mus",Mu: Melody
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0 group-title="Int",Int: CGTN en
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0 group-title="Col",Co: Envigado
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 #EXTINF:0 group-title="Ar",Ar: TLX Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0 group-title="Esp",Es: TVR Santiago
-http://canal22santiago.cl/playlist.m3u8
-#EXTINF:0 group-title="Esp",Es: TR3CE
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:0 group-title="Esp",Es: Rtv ce
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0 group-title="Esp",Es: Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?
-#EXTINF:0 group-title="Mus",Mu: Retro ing
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:0 group-title="Int",Int: France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0 group-title="Int",Int: Beach TV PanamaCity
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:0 group-title="Ch",Ch: GraciaTv
-http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 #EXTINF:0 group-title="Cr",Cr: TeleSur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0 group-title="Cr",Cr: Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0 group-title="Esp",Es: Canal 24h
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8
-#EXTINF:0 group-title="Mx",Mx: Tele Bachillerato
-https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
-#EXTINF:0 group-title="Mx",Mx: Capacita Tv
-https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
-#EXTINF:0 group-title="Mx",Mx: Aprende Tv
-https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
-#EXTINF:0 group-title="Mx",Mx: Ingenio TV
-https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
-#EXTINF:0 group-title="Cine",Cine: Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="Ar",Ar: Canal4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 #EXTINF:0 group-title="Int",Bo: PAT
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
-#EXTINF:0 group-title="Ch",Ch: Holvoet 
-http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:0 group-title="Cr",Cr: Extrema
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0 group-title="Rel",Rel: Pax TV
+#EXTINF:0 group-title="Cr",Re: PaxTv
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:0 group-title="Do",Do: Orbit
-http://ss6.domint.net:2082/202_str/orbittv/playlist.m3u8
-#EXTINF:0 group-title="Do",Do: Telenord
-http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg
 #EXTINF:0 group-title="Do",Do: TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:0 group-title="Int",Int: Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
 #EXTINF:0 group-title="Sal",Sa: Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:0 group-title="Esp",Es: RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0 group-title="Int",Int: Olympic Channel USA
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:0 group-title="Int",Int: DW Entrete
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="Pe",Pe: Antares TV SD
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:0 group-title="int",Int: CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
 #EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
-#EXTINF:0,Ch: UMAG TV
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:0,Mu: Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
-#EXTINF:0 group-title="Int",Int: TeleSUR ve
-https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
-#EXTINF:0,Mu: Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0 group-title="Int",Int: RT
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-#EXTINF:0,Ec: UCSG
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:0 group-title="Ur",Ur: Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
-#EXTINF:0 group-title="Cr",Cr: Canal UCR
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 #EXTINF:0 group-title="Cr",Cr: Telesur CR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0 group-title="Int",Int: Travel HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:0 group-title="Mus",Mu: Retro
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0,Pe: Antares TV | SD
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:0 group-title="Int",Int: CGTN ES
@@ -173,113 +87,52 @@ http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:0 group-title="Do",Do: Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:0 group-title="Mx",Mx: Canal 10
-http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:0 group-title="Ar",Ar: 13maxhd
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:0 group-title="Esp",Es: RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
-#EXTINF:0 group-title="Int",Int: TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
-
 #EXTINF:0 group-title="Mus",Mu: Retro Channel
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:0 group-title="Cul",Cul: Cultura Para
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:0 group-title="Cul",Cul: Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:0 group-title="Cul",Cul: Rede premium
-https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
-
-#EXTINF:0 group-title="Cultura", ShortGod Discovery 
-http://38.18.238.42:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cultura", ShortGod Discovery SCI
-http://23.237.29.98:2095/9490SCI/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cultura", ShortGod Discovery Teather
-http://38.18.238.35:2095/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cultura", ShortGod Discovery Turbo
-http://23.237.29.98:2095/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:0 group-title="Cultura", ShortGod Discovery World
-http://38.18.238.42:2095/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cultura", ShortGod NatGeo
-http://38.18.238.42:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:0 group-title="Cine y Series", ShortGod STARZ
-http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod EDGE
-http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod COMEDY
-http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod CINEMA
-http://f4.tvxweb.net:8082/24317/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod ENCORE
-http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod ACTION
-http://f4.tvxweb.net:8082/24315/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod BLACK
-http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod WESTERN
-http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
-#EXTINF:0 group-title="Cine y Series", ShortGod DRAMA
-http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
-
-#EXTINF:0 group-title="varios", ShortGod A3SERIES
-http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Varios", ShortGod CNN EN ESPAÑOL
-http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Varios", ShortGod FORO TV
-http://23.237.29.98:2095/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:0 group-title="Cine y Series", ShortGod STAR CLASSICS
-http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod STAR SERIES
-http://23.237.29.98:2095/660fox1/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod STAR FAMILY
-http://23.237.29.98:2095/665foxFamily/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod CINE CANAL
-http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod CINE LATINO
-http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod TNT
-http://38.18.238.42:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod TNT SERIES
-http://38.18.238.42:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod HBO
-http://38.18.238.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod HBO 2
-http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod HBO +
-http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod HBO FAMILY
-http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod HBO XTREME
-http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod AXN
-http://38.18.238.35:2095/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod A&E
-http://23.237.29.98:2095/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod WARNER
-http://38.18.238.42:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:0 group-title="Infanti", ShortGod CARTOON NETWORK
-http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Infantil", ShortGod DISNEY CHANNEL
-http://38.18.238.42:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod NICK
-http://38.18.238.42:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod SONY
-http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod PARAMOUNT
-http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod SPACE
-http://38.18.238.42:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series", ShortGod UNIVERSAL
-http://38.18.238.35:2095/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series",ShortGod CINE CANAL
-http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:0 group-title="Cine y Series",ShortGod CINE LATINO
-http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-#EXTINF:0 group-title="Cine y Series",ShortGod CINEMAX
-http://38.18.238.42:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sRsCcT6.png", La 1 | HD | EspaÃ±a
+https://m3u-editor.com/serve/televitolibre/510989329.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png", La 2 | HD | EspaÃ±a
+https://m3u-editor.com/serve/televitolibre/510992641.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ha46eGP.png", Canal 3 Rosario | SD | Argentina
+https://m3u-editor.com/serve/televitolibre/497955327.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Chile
+https://m3u-editor.com/serve/televitolibre/497955329.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg", Euronews | HD | Francia
+https://m3u-editor.com/serve/televitolibre/526463489.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN ESPAÃ‘OL| SD | China
+https://m3u-editor.com/serve/televitolibre/497955346.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IvOTHIU.png", RTVE 24h | HD | EspaÃ±a
+https://m3u-editor.com/serve/televitolibre/510987808.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle EspaÃ±ol | FHD | Alemania
+https://m3u-editor.com/serve/televitolibre/497955345.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5uvbKMo.png", Estrella News | HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/510996712.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 Pinamar  | HD  | Argentina
+https://m3u-editor.com/serve/televitolibre/500016129.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/c1UdhtC.png", Cine Verdi | HD | EspaÃ±a
+https://m3u-editor.com/serve/televitolibre/523260548.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/f98JTsZ.png", Telemadrid | HD | EspaÃ±a
+https://m3u-editor.com/serve/televitolibre/500016219.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/E0Jlmht.png", Love Nature | FHD | CanadÃ¡
+https://m3u-editor.com/serve/televitolibre/497955348.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN PanamÃ¡ | HD | PanamÃ¡
+https://m3u-editor.com/serve/televitolibre/497955347.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0EFIMHP.png", ATV | HD | PerÃº
+https://m3u-editor.com/serve/televitolibre/500017328.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vZnOTq8.png", TeleRed | SD | Costa Rica
+https://m3u-editor.com/serve/televitolibre/526442931.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jn20Wjw.png", Suram TV | HD | Colombia
+https://m3u-editor.com/serve/televitolibre/497955336.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7NwZRlX.png", Motorvision Latino | HD | Alemania
+https://m3u-editor.com/serve/televitolibre/497956006.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DrKKuFY.png", Pax TV| HD | PerÃº
+https://m3u-editor.com/serve/televitolibre/500015817.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YJ4NnR8.png", Simpson TV | HD | Chile
+https://m3u-editor.com/serve/televitolibre/511000630.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7gMqvsV.png", El Chavo | SD | Chile
+https://m3u-editor.com/serve/televitolibre/511006844.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qeF0ou9.png", Classic Arts Showcase| HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/497955361.m3u8
 
