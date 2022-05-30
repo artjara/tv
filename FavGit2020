@@ -20,19 +20,14 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0 group-title="Cr",Cr: Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 group-title="Cr",Cr: DHE
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
-#EXTINF:0 group-title="Int",Bo: PAT
-http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 #EXTINF:0 group-title="Cr",Cr: Extrema
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0 group-title="Cr",Re: PaxTv
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:0 group-title="Do",Do: TVS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:0 group-title="Int",Int: Telesur
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
 #EXTINF:0 group-title="Sal",Sa: Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:0 group-title="int",Int: CGTN ES
@@ -43,48 +38,26 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0 group-title="Cr",Cr: Telesur CR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Pe: Antares TV | SD
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:0 group-title="Int",Int: CGTN ES
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 group-title="Cr",Cr: Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,Mu: RetroTV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 group-title="Int",Int: DW Entret
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="Int",Int: TravelHD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:0 group-title="Ar",Ar: TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0 group-title="Cr",Cr: TeleSur cr
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0 group-title="Do",Do: Telenord Canal 14
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
-#EXTINF:0 group-title="Int",Int: Deutsche Welle
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:0 group-title="Mus",Mu: Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0 group-title="Do",Do: Acento
-http://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:0 group-title="Do",Do: SuperTv55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 #EXTINF:0 group-title="Mus",Mu: MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:0 group-title="Esp",Es: Telesafor
-http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:0 group-title="Int",Int: Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:0 group-title="Col",Co: Redmas
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Do",Do: Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:0 group-title="Mx",Mx: Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:0 group-title="Mus",Mu: Pop.es
-http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
-#EXTINF:0 group-title="Ar",Ar: Chaco.Ch13
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:0 group-title="Do",Do: Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 #EXTINF:0 group-title="Mus",Mu: Retro Channel
