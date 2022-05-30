@@ -178,13 +178,15 @@ http://tv.teleclub.xyz/live/ABRIL_00/LOVE_NATURE/index.m3u8
 #EXTINF:-1,Motorvision Latino | HD | Alemania
 https://m3u-editor.com/serve/televitolibre/497956006.m3u8
 
-#EXTINF: -1,Simpson TV | HD | Chile
+#EXTINF:-1,Simpson TV | HD | Chile
 https://m3u-editor.com/serve/televitolibre/511000630.m3u8
-#EXTINF: -1,Simpson Man | HD | Colombia
+#EXTINF:-1,Simpson Man | HD | Colombia
 https://m3u-editor.com/serve/televitolibre/511000628.m3u8
-#EXTINF: -1,Classic Arts Showcase| HD | US
+#EXTINF:-1,Classic Arts Showcase| HD | US
 https://m3u-editor.com/serve/televitolibre/497955361.m3u8
-#EXTINF: -1, Love Nature | FHD | Cana
+#EXTINF:-1, Love Nature | FHD | Cana
 https://m3u-editor.com/serve/televitolibre/497955348.m3u8
+#EXTINF:0,Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 
