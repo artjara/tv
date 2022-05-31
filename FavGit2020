@@ -190,4 +190,12 @@ https://m3u-editor.com/serve/televitolibre/497955348.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Clasica y Barroca | Buenos Aires
 http://200.110.145.2:8087/stream
+#EXTINF:-1,ClÃ¡sica FM Radio
+https://edge.mixlr.com/channel/asnfw
+#EXTINF:-1,ClÃ¡sica RNE
+https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8
+
+
+
+
 
