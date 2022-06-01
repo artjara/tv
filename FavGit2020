@@ -48,8 +48,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0 group-title="Cr",Cr: TeleSur cr
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0 group-title="Mus",Mu: Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0 group-title="Mus",Mu: MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 #EXTINF:0 group-title="Int",Int: Cultura 24
@@ -162,9 +160,6 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1,MegaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
-#EXTINF:-1,Energeek
-https://5eff35271151c.streamlock.net:1936/8074/8074/.m3u8
-
 #EXTINF:-1,DOM: Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 #EXTINF:-1,DOM: Tv del Este
@@ -177,11 +172,8 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 http://tv.teleclub.xyz/live/ABRIL_00/LOVE_NATURE/index.m3u8
 #EXTINF:-1,Motorvision Latino | HD | Alemania
 https://m3u-editor.com/serve/televitolibre/497956006.m3u8
-
 #EXTINF:-1,Simpson TV | HD | Chile
 https://m3u-editor.com/serve/televitolibre/511000630.m3u8
-#EXTINF:-1,Simpson Man | HD | Colombia
-https://m3u-editor.com/serve/televitolibre/511000628.m3u8
 #EXTINF:-1,Classic Arts Showcase| HD | US
 https://m3u-editor.com/serve/televitolibre/497955361.m3u8
 #EXTINF:-1, Love Nature | FHD | Cana
