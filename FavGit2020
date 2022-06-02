@@ -185,4 +185,8 @@ https://edge.mixlr.com/channel/asnfw
 #EXTINF:-1,ClÃ¡sica RNE
 https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8
 
+#EXTINF:-1,EURO Channel
+http://201.108.227.250:8001/play/a03l/index.m3u8
+#EXTINF:-1,Europa HD
+http://201.108.227.250:8001/play/a00k/index.m3u8
 
