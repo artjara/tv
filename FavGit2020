@@ -10,7 +10,6 @@ http://37.35.150.11:8000/play/a004
 http://37.35.150.11:8000/play/a002
 #EXTINF:-1,La 2 HD
 http://37.35.150.11:8000/play/a005
-
 #EXTINF:0,Es: ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0,Int: MostVideo 
@@ -29,7 +28,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 #EXTINF:0,Cr: Extrema
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,Re: PaxTv
+#EXTINF:0,Rel: PaxTv
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:0,Sa: Wow!
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -65,14 +64,13 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:0,Cul: Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
-
 #EXTINF:-1,Canal 3 Rosario | SD | Argentina
 https://m3u-editor.com/serve/televitolibre/497955327.m3u8
 #EXTINF:-1,UCV | HD | Chile
 https://m3u-editor.com/serve/televitolibre/497955329.m3u8
 #EXTINF:-1,Euronews | HD | Francia
 https://m3u-editor.com/serve/televitolibre/526463489.m3u8
-#EXTINF:-1,CGTN ESPAÃ‘OL| SD | China
+#EXTINF:-1,CGTN ESPAnOL| SD | China
 https://m3u-editor.com/serve/televitolibre/497955346.m3u8
 #EXTINF:-1,RTVE 24h | HD | EspaÃ±a
 https://m3u-editor.com/serve/televitolibre/510987808.m3u8
@@ -90,15 +88,13 @@ https://m3u-editor.com/serve/televitolibre/500016219.m3u8
 https://m3u-editor.com/serve/televitolibre/497955348.m3u8
 #EXTINF:-1,TVN PanamÃ¡ | HD | PanamÃ¡
 https://m3u-editor.com/serve/televitolibre/497955347.m3u8
-#EXTINF:-1,ATV | HD | PerÃº
+#EXTINF:-1,ATV | HD | Peru
 https://m3u-editor.com/serve/televitolibre/500017328.m3u8
 #EXTINF:-1,TeleRed | SD | Costa Rica
 https://m3u-editor.com/serve/televitolibre/526442931.m3u8
-#EXTINF:-1,Suram TV | HD | Colombia
-https://m3u-editor.com/serve/televitolibre/497955336.m3u8
 #EXTINF:-1,Motorvision Latino | HD | Alemania
 https://m3u-editor.com/serve/televitolibre/497956006.m3u8
-#EXTINF:-1,Pax TV| HD | PerÃº
+#EXTINF:-1,Pax TV| HD | Rel
 https://m3u-editor.com/serve/televitolibre/500015817.m3u8
 #EXTINF:-1,Simpson TV | HD | Chile
 https://m3u-editor.com/serve/televitolibre/511000630.m3u8
@@ -126,11 +122,11 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1,Teleantioquia Col
 https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-#EXTINF:-1,SeÃ±al Col
+#EXTINF:-1,Senal Col
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Panamericana PerÃº
+#EXTINF:-1,Panamericana Peru
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1,TV PerÃº
+#EXTINF:-1,TV Peru
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,TeleSUR Ven
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -138,11 +134,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
 #EXTINF:-1,ABC TV Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1,NicavisiÃ³n Nicaragua
+#EXTINF:-1,Nicavision Nicaragua
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 #EXTINF:-1,TeleDiario Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1,Nex TV PanamÃ¡
+#EXTINF:-1,Nex TV Panama
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TeleDiario Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -180,13 +176,9 @@ https://m3u-editor.com/serve/televitolibre/497955348.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Clasica y Barroca | Buenos Aires
 http://200.110.145.2:8087/stream
-#EXTINF:-1,ClÃ¡sica FM Radio
+#EXTINF:-1,Clasica FM Radio
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:-1,ClÃ¡sica RNE
+#EXTINF:-1,Clasica RNE
 https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8
 
-#EXTINF:-1,EURO Channel
-http://201.108.227.250:8001/play/a03l/index.m3u8
-#EXTINF:-1,Europa HD
-http://201.108.227.250:8001/play/a00k/index.m3u8
 
