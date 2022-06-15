@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,24h
-http://37.35.150.11:8000/play/a003
-#EXTINF:-1,La 1
-http://37.35.150.11:8000/play/a001
-#EXTINF:-1,La 1 HD
-http://37.35.150.11:8000/play/a004
-#EXTINF:-1,La 2
-http://37.35.150.11:8000/play/a002
-#EXTINF:-1,La 2 HD
-http://37.35.150.11:8000/play/a005
 #EXTINF:0,Es: ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0,Int: MostVideo 
@@ -72,8 +62,6 @@ https://m3u-editor.com/serve/televitolibre/497955329.m3u8
 https://m3u-editor.com/serve/televitolibre/526463489.m3u8
 #EXTINF:-1,CGTN ESPAnOL| SD | China
 https://m3u-editor.com/serve/televitolibre/497955346.m3u8
-#EXTINF:-1,RTVE 24h | HD | EspaÃ±a
-https://m3u-editor.com/serve/televitolibre/510987808.m3u8
 #EXTINF:-1,Deutsche Welle EspaÃ±ol | FHD | Alemania
 https://m3u-editor.com/serve/televitolibre/497955345.m3u8
 #EXTINF:-1,Estrella News | HD | Estados Unidos
@@ -88,8 +76,6 @@ https://m3u-editor.com/serve/televitolibre/500016219.m3u8
 https://m3u-editor.com/serve/televitolibre/497955348.m3u8
 #EXTINF:-1,TVN PanamÃ¡ | HD | PanamÃ¡
 https://m3u-editor.com/serve/televitolibre/497955347.m3u8
-#EXTINF:-1,ATV | HD | Peru
-https://m3u-editor.com/serve/televitolibre/500017328.m3u8
 #EXTINF:-1,TeleRed | SD | Costa Rica
 https://m3u-editor.com/serve/televitolibre/526442931.m3u8
 #EXTINF:-1,Motorvision Latino | HD | Alemania
@@ -150,8 +136,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 https://59537faa0729a.streamlock.net/estrellaproducciones/estrellaproducciones/.m3u8
 #EXTINF:-1,DDM Tv pelis
 https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
-#EXTINF:-1,Latina Tv pelis
-https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1,MegaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
 #EXTINF:-1,DOM: Microvision
