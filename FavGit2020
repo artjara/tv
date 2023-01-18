@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0,Int: A3Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:0,Es: ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0,Int: MostVideo 
