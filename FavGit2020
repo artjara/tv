@@ -1,170 +1,191 @@
 #EXTM3U
 
 #EXTINF:0,Int: A3Cine
+#EXTGRP:unsorted
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:0,Es: ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0,Int: MostVideo 
-http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0,7NN.es
+#EXTGRP:unsorted
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
+#EXTINF:0,13MaxTelevision.ar 1080
+#EXTGRP:unsorted
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:0,13Cultura (720p)
+#EXTGRP:unsorted
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:0,Ame47
+#EXTGRP:unsorted
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:0,Antares
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0,Antena 7
+#EXTGRP:unsorted
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
+#EXTINF:0,Antena Seis TV (720p)
+#EXTGRP:unsorted
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
+#EXTINF:0,BBC America (720p)
+#EXTGRP:unsorted
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:0,Canal 24 Horas (720p)
+#EXTGRP:unsorted
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0,Canal 24 Horas Canarias (576p)
+#EXTGRP:unsorted
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:0,Carivision
+#EXTGRP:unsorted
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+#EXTINF:0,Cine Sureno (1080p)
+#EXTGRP:unsorted
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:0,CineAr720
+#EXTGRP:unsorted
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0,DW esp 1080
+#EXTGRP:unsorted
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,El Pais
+#EXTGRP:unsorted
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0,El Sol 404p
+#EXTGRP:unsorted
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+#EXTINF:0,Etb720
+#EXTGRP:unsorted
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0,EuroChannel
+#EXTGRP:unsorted
+https://mfe01.tring.al/delta/106/out/u/1120_3.m3u8
+#EXTINF:0,France 24 esp 1080
+#EXTGRP:unsorted
+https://hls.youtb.workers.dev/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:0,Motor Sur Media
+#EXTGRP:unsorted
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+#EXTINF:0,Orbit
+#EXTGRP:unsorted
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:0,PlatziTv 1080
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:0,CGTN ESPAnOL| SD | China
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/televitolibre/497955346.m3u8
+#EXTINF:0,Senal Col
+#EXTGRP:unsorted
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0,Panamericana Peru
+#EXTGRP:unsorted
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0,TV Peru
+#EXTGRP:unsorted
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,Clasica FM Radio
+#EXTGRP:unsorted
+https://edge.mixlr.com/channel/asnfw
+#EXTINF:0,Clasica y Barroca | Buenos Aires
+#EXTGRP:unsorted
+http://200.110.145.2:8087/stream
+#EXTINF:0,Cine.AR
+#EXTGRP:unsorted
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cr: DHE
+#EXTGRP:unsorted
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:0,24h
+#EXTGRP:unsorted
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0,7NN Noticias
+#EXTGRP:unsorted
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:0,El Financiero Mexico
+#EXTGRP:unsorted
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:0,FORO TV Mexico
+#EXTGRP:unsorted
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0,TeleSUR Ven
+#EXTGRP:unsorted
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0,ABC TV Paraguay
+#EXTGRP:unsorted
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:0,TeleDiario Costa Rica
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,DOM: Tv del Este
+#EXTGRP:unsorted
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Euronews | HD | Francia
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/televitolibre/526463489.m3u8
+#EXTINF:0,Estrella News | HD | Estados Unidos
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/televitolibre/510996712.m3u8
+#EXTINF:0,Telemadrid | HD | EspaÃƒÂ±a
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/televitolibre/500016219.m3u8
+#EXTINF:0,TeleRed | SD | Costa Rica
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/televitolibre/526442931.m3u8
+#EXTINF:0,Motorvision Latino | HD | Alemania
+#EXTGRP:unsorted
+https://m3u-editor.com/serve/televitolibre/497956006.m3u8
+#EXTINF:0,Cul: Parana Turismo
+#EXTGRP:unsorted
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0,Mu: Retro Channel
+#EXTGRP:unsorted
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:0,Int: CGTN en
+#EXTGRP:unsorted
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0,Ar: TLX Telemax
+#EXTGRP:unsorted
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:0,Cr: TeleSur
+#EXTGRP:unsorted
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Cr: Ticavision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0,Cr: DHE
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:0,Ar: TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0,Cr: Extrema
+#EXTGRP:unsorted
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,Rel: PaxTv
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:0,Sa: Wow!
+#EXTGRP:unsorted
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:0,Int: CGTN ES
+#EXTGRP:unsorted
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,Ar: TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:0,Ar: TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0,Cr: Telesur CR
+#EXTGRP:unsorted
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Int: CGTN ES
-http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,Cr: Extrema TV
+#EXTGRP:unsorted
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,Mu: RetroTV
+#EXTGRP:unsorted
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,Ar: TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:0,Cr: TeleSur cr
+#EXTGRP:unsorted
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0,Mu: MusicTop
+#EXTGRP:unsorted
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 #EXTINF:0,Int: Cultura 24
+#EXTGRP:unsorted
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:0,Do: Vallevision
+#EXTGRP:unsorted
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:0,Mx: Telemax
+#EXTGRP:unsorted
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:0,Do: Microvision
+#EXTGRP:unsorted
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:0,Mu: Retro Channel
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:0,Cul: Parana Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,Canal 3 Rosario | SD | Argentina
-https://m3u-editor.com/serve/televitolibre/497955327.m3u8
-#EXTINF:-1,UCV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/497955329.m3u8
-#EXTINF:-1,Euronews | HD | Francia
-https://m3u-editor.com/serve/televitolibre/526463489.m3u8
-#EXTINF:-1,CGTN ESPAnOL| SD | China
-https://m3u-editor.com/serve/televitolibre/497955346.m3u8
-#EXTINF:-1,Deutsche Welle EspaÃ±ol | FHD | Alemania
-https://m3u-editor.com/serve/televitolibre/497955345.m3u8
-#EXTINF:-1,Estrella News | HD | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/510996712.m3u8
-#EXTINF:-1,CN3 Pinamar  | HD  | Argentina
-https://m3u-editor.com/serve/televitolibre/500016129.m3u8
-#EXTINF:-1,Cine Verdi | HD | EspaÃ±a
-https://m3u-editor.com/serve/televitolibre/523260548.m3u8
-#EXTINF:-1,Telemadrid | HD | EspaÃ±a
-https://m3u-editor.com/serve/televitolibre/500016219.m3u8
-#EXTINF:-1,Love Nature | FHD | CanadÃ¡
-https://m3u-editor.com/serve/televitolibre/497955348.m3u8
-#EXTINF:-1,TVN PanamÃ¡ | HD | PanamÃ¡
-https://m3u-editor.com/serve/televitolibre/497955347.m3u8
-#EXTINF:-1,TeleRed | SD | Costa Rica
-https://m3u-editor.com/serve/televitolibre/526442931.m3u8
-#EXTINF:-1,Motorvision Latino | HD | Alemania
-https://m3u-editor.com/serve/televitolibre/497956006.m3u8
-#EXTINF:-1,Pax TV| HD | Rel
-https://m3u-editor.com/serve/televitolibre/500015817.m3u8
-#EXTINF:-1,Simpson TV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/511000630.m3u8
-#EXTINF:-1,El Chavo | SD | Chile
-https://m3u-editor.com/serve/televitolibre/511006844.m3u8
-#EXTINF:-1,Classic Arts Showcase| HD | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/497955361.m3u8
-#EXTINF:-1,El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:-1,24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1,7NN Noticias
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1,DW Alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,El Financiero Mexico
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-#EXTINF:-1,FORO TV Mexico
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1,ADN40 Mexico
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1,Noticias Caracol Col
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,Canal Capital Col
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1,Teleantioquia Col
-https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-#EXTINF:-1,Senal Col
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Panamericana Peru
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1,TV Peru
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,TeleSUR Ven
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1,TeleAmazonas Ecuador
-https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
-#EXTINF:-1,ABC TV Paraguay
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1,Nicavision Nicaragua
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
-#EXTINF:-1,TeleDiario Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1,Nex TV Panama
-https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TeleDiario Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1,Caracol col
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,Mi Tv Clasicos
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1,Estrella Tv pelis
-https://59537faa0729a.streamlock.net/estrellaproducciones/estrellaproducciones/.m3u8
-#EXTINF:-1,DDM Tv pelis
-https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
-#EXTINF:-1,MegaTV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
-#EXTINF:-1,DOM: Microvision
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:-1,DOM: Tv del Este
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Classic Arts
-https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
-#EXTINF:0,Orbe 21 | AR
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Love Nature[teleclub]
-http://tv.teleclub.xyz/live/ABRIL_00/LOVE_NATURE/index.m3u8
-#EXTINF:-1,Motorvision Latino | HD | Alemania
-https://m3u-editor.com/serve/televitolibre/497956006.m3u8
-#EXTINF:-1,Simpson TV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/511000630.m3u8
-#EXTINF:-1,Classic Arts Showcase| HD | US
-https://m3u-editor.com/serve/televitolibre/497955361.m3u8
-#EXTINF:-1,Love Nature | FHD | Cana
-https://m3u-editor.com/serve/televitolibre/497955348.m3u8
-#EXTINF:0,Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Clasica y Barroca | Buenos Aires
-http://200.110.145.2:8087/stream
-#EXTINF:-1,Clasica FM Radio
-https://edge.mixlr.com/channel/asnfw
-#EXTINF:-1,Clasica RNE
-https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8
-
-
