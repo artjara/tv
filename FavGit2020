@@ -189,33 +189,18 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:0,Do: Microvision
 #EXTGRP:unsorted
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:0,En la cama
-#EXTGRP:Riivi
-https://videos-fms.jwpsrv.com/63eceed8_0xcaa21636174623e9ff1d0ce9ac19fc992acb45bd/content/conversions/BVWdbkGq/videos/wWkQsJvk-33602700.mp4.m3u8
-#EXTINF:0,En tu piel
-#EXTGRP:Riivi
-https://videos-cloudflare.jwpsrv.com/63ecf353_d683e227e96b90db990ee68b29f547e16de2077d/content/conversions/BVWdbkGq/videos/9O5CA0V7-33602701.mp4.m3u8
-#EXTINF:0,Grado 3
-#EXTGRP:Riivi
-https://videos-cloudflare.jwpsrv.com/63ecf72a_df2b1e46e3674224aa433a6125567d6109a24c81/content/conversions/BVWdbkGq/videos/4qrLKJ7s-33602700.mp4.m3u8
-#EXTINF:0,Grado 3
-#EXTGRP:Riivi
-https://videos-cloudflare.jwpsrv.com/63ecf6e7_68d82258529d7f7c580da8d0cfcc241561f633e2/content/conversions/BVWdbkGq/videos/6ULVFopw-33602701.mp4.m3u8
-#EXTINF:0,Al punto de llegar
-#EXTGRP:Riivi
-https://videos-fms.jwpsrv.com/63ecf5a2_0x0f960b02bab97437a058c3ae0155af24f71325cb/content/conversions/BVWdbkGq/videos/vOHcduaY-33602701.mp4.m3u8
+
 #EXTINF:0,Crimen Lujuria
-#EXTGRP:Riivi
-https://videos-cloudflare.jwpsrv.com/63ecf4b8_a5fd9928079c8de3d453e8a65172fb1f636499fe/content/conversions/BVWdbkGq/videos/6azPNhpC-33602701.mp4.m3u8
+#EXTGRP:Riivi.com
+https://videos-cloudflare.jwpsrv.com/63f4e3ad_b1f57fbb2ae9d93a5a8459a7cdfffb20ba7363a1/content/conversions/BVWdbkGq/videos/6azPNhpC-33602701.mp4.m3u8
+
 #EXTINF:0,Fantasias
-#EXTGRP:Riivi
-https://videos-fms.jwpsrv.com/63ecf4ae_0x9967a46be6aee1a6a2b90f344ee785eddbc41c7a/content/conversions/BVWdbkGq/videos/vRnOolFJ-33602701.mp4.m3u8
-#EXTINF:0,El pacto de Adriana
-#EXTGRP:Riivi
-https://videos-fms.jwpsrv.com/63ecf455_0x7b6bd9d5567a60b15dc24a8cb7a03511de258aa0/content/conversions/BVWdbkGq/videos/f4k23oiM-33602704.mp4.m3u8
+#EXTGRP:Riivi.com
+https://videos-fms.jwpsrv.com/63f4e416_0xead167e6dc375a46fc964bc6e28edd8d5e1db3b1/content/conversions/BVWdbkGq/videos/vRnOolFJ-33602701.mp4.m3u8
 
-
-
+#EXTINF:0,En tu piel
+#EXTGRP:Riivi.com
+https://videos-cloudflare.jwpsrv.com/63f4e306_1b5f2c3a0c1eab04c6f3d8eaea9908ef87afe4ab/content/conversions/BVWdbkGq/videos/9O5CA0V7-33602701.mp4.m3u8
 
 
 
