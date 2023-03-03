@@ -27,5 +27,6 @@ https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Rakuten TV Thrillers | HD | JapÃ³n
 #EXTGRP:Cine y Series
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/b32fe9b6-053c-4aec-999e-3689a9d1b24b/2.m3u8
-
-
+#EXTINF:0,Rakuten sin nombre
+#EXTGRP:Cine y Series
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
