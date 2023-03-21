@@ -55,6 +55,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0,Distro Flou Cine
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/9df4fb0f-7634-480e-bbc9-577092b83cd3/0.m3u8
+#EXTINF:0,Distro Saber mas
+#EXTGRP:Distro
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/1d3b7b95-8799-4050-8eab-0ced86fda960/4.m3u8
+#EXTINF:0,Distro Thril
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/0b944928-6930-4d98-907c-ae27c46aaa54/1.m3u8
+#EXTINF:0,Juntos
+#EXTGRP:Distro
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/3982867d-b336-46f2-8471-47523cd80992/4.m3u8
+#EXTINF:0,Distro Relaz
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/f2ae88d2-d34a-4a10-b6f0-908225e30eae/2.m3u8
+#EXTINF:0,Distro wapp
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/66c79e64-3b47-4029-ad34-b5177db14624/2.m3u8
+#EXTINF:0,Distro Sun
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/4fad3830-cfb2-4149-8264-94733d363db2/1.m3u8
 
 #EXTINF:0,Vivir con Gatos
 #EXTGRP:Photocall
@@ -68,8 +86,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:0,Rakuten tv
 #EXTGRP:Photocall
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-
-
 
 
 
