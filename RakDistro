@@ -31,10 +31,10 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Cine y Series
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:0,Distro1
+#EXTINF:0,Distro Autos
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/98113a38-c816-4f33-b2d2-37f9bae38450/0.m3u8
-#EXTINF:0,Distro2
+#EXTINF:0,Distro Tu cine
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/30e8e3a8-e661-4846-b242-da9b54c858ba/4.m3u8
 #EXTINF:0,Distro Saber mas
@@ -46,11 +46,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro
 #EXTINF:0,Distro Tu Cine
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/53849fd1-d944-46c9-a103-2a141a038ef1/5.m3u8
-
-
-
-
-
+#EXTINF:0,Distro El Conflicto
+#EXTGRP:Distro
+https://stream-us-east-1.getpublica.com/cl/230321cgcgsh6f18btbo8nbdn0/654x480_2899658_2_f.m3u8?i=513_2252
+#EXTINF:0,Distro Ducumentary
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/1803e080-26ec-429b-9508-a5ab0ed8cd95/2.m3u8
+#EXTINF:0,Distro Flou Cine
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/9df4fb0f-7634-480e-bbc9-577092b83cd3/0.m3u8
 
 
 
