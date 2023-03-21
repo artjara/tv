@@ -30,3 +30,20 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Rakuten sin nombre
 #EXTGRP:Cine y Series
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Distro1
+#EXTGRP:Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/98113a38-c816-4f33-b2d2-37f9bae38450/0.m3u8
+#EXTINF:0,Distro2
+#EXTGRP:Distro
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/30e8e3a8-e661-4846-b242-da9b54c858ba/4.m3u8
+
+
+
+
+
+
+
+
+
+
