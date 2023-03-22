@@ -1,34 +1,34 @@
 #EXTM3U
 
-#EXTINF:0,Rakuten TV AcciÃ³n | HD | Jap
-#EXTGRP:Cine y Series
+#EXTINF:0,Rakuten TV Accion | HD | Jap
+#EXTGRP:Rakuten
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Rakuten  TV Comedias | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten  TV Drama | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Rakuten TV EspaÃ±ol | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/53bc8926-bc1b-4afd-934b-50f8143cb8d8/2.m3u8
 #EXTINF:0,Rakuten TV Family | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten TV RomÃ¡ntico | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/35b47c10-63e9-4b69-8b23-a49403adf914/2.m3u8
 #EXTINF:0,Rakuten TV Stories | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten TV Top Movies | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/18ab383c-cff7-4e04-9cc6-ce285f7b62bf/2.m3u8
 #EXTINF:0,Rakuten TV Thrillers | HD | Jap
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/b32fe9b6-053c-4aec-999e-3689a9d1b24b/2.m3u8
 #EXTINF:0,Rakuten sin nombre
-#EXTGRP:Cine y Series
+#EXTGRP:Rakuten
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0,Distro Autos
