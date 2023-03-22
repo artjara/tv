@@ -64,7 +64,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0,Juntos
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/3982867d-b336-46f2-8471-47523cd80992/4.m3u8
-#EXTINF:0,Distro Relax1
+#EXTINF:0,Distro Relax1 Playa
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/f2ae88d2-d34a-4a10-b6f0-908225e30eae/2.m3u8
 #EXTINF:0,Distro wapp
@@ -79,16 +79,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/6
 #EXTINF:0,Distro Glewedtv
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/52423fd2-27b7-46e7-b1a7-4ad936679e2d/2.m3u8
-#EXTINF:0,Distro Relax2
+#EXTINF:0,Distro Relax2 Cascada
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/3bbd6a30-7ce6-444c-813f-e4f0381c7cd0/2.m3u8
-#EXTINF:0,Distro Relax3
+
+#EXTINF:0,Distro Relax3 Quietude
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/a7749881-3012-4420-b288-12e844674ad8/4.m3u8
-#EXTINF:0,Distro Relax3 fire
+
+#EXTINF:0,Distro Relax4 fire
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/235d614c-819d-4855-9916-0970202ebd2e/2.m3u8
-#EXTINF:0,Distro Relax4 Thunder
+#EXTINF:0,Distro Relax5 Thunder
 #EXTGRP:Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/63f1a3c1-a899-4a06-b728-c418e09ba9a4/2.m3u8
 
