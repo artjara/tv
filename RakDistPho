@@ -100,5 +100,12 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTGRP:Photocall
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
+#EXTINF:0,A3Cine
+#EXTGRP:IptvOrg
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:0,El Toro
+#EXTGRP:IptvOrg
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+
 
 
