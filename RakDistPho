@@ -32,13 +32,13 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,Distro Motorvision
 #EXTGRP:Distro
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/98113a38-c816-4f33-b2d2-37f9bae38450/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/9582e81f-cd0b-4d9f-834f-fcb3223b1ff7/3.m3u8
 #EXTINF:0,Distro Tu cine
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/30e8e3a8-e661-4846-b242-da9b54c858ba/4.m3u8
 #EXTINF:0,Distro Saber mas
 #EXTGRP:Distro
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/543941ef-4489-49b0-b6fe-30dfcbb79d24/4.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/be9c004b-0ef1-49a1-85fe-610e4005a53c/4.m3u8
 #EXTINF:0,Distro Top Cine
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/3367e506-66ac-4a12-b6da-dde804946ebc/4.m3u8
@@ -96,7 +96,7 @@ https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0,La1
 #EXTGRP:Photocall
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:0,Rakuten tv
+#EXTINF:0,Rakuten Accion
 #EXTGRP:Photocall
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
@@ -106,6 +106,28 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:0,El Toro
 #EXTGRP:IptvOrg
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+
+#EXTINF:0,Rakuten Accion 
+#EXTGRP:Photocall
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:0,Navarra
+#EXTGRP:Photocall
+https://dailymotionlive.akamaized.net/sec(D9J3chSPMBKwmID2SmGTMHnvr7Bf7_aClHizOIjCezqLDYcBwqST-KoMpG1UxxHY)/dm/3/x8dhap9/s/live-2.m3u8
+#EXTINF:0,24h
+#EXTGRP:Photocall
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:0,La1
+#EXTGRP:Photocall
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:0,La2
+#EXTGRP:Photocall
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+#EXTINF:0,El Pais
+#EXTGRP:Photocall
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+
 
 
 
