@@ -91,7 +91,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:0,Vivir con Gatos
 #EXTGRP:Photocall
-https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8    okokok
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
+#EXTINF:0,Vivir con Gatos2
+#EXTGRP:Photocall
+https://d2ocvc6amhp1qj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/735f8848-8e30-498d-899d-aae37e9088e6/0.m3u8
 #EXTINF:0,Vivir con Perros
 #EXTGRP:Photocall
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
@@ -101,9 +104,9 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:0,Rakuten Accion
 #EXTGRP:Photocall
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,Navarra xx
+#EXTINF:0,Navarra
 #EXTGRP:Photocall
-https://dailymotionlive.akamaized.net/sec(D9J3chSPMBKwmID2SmGTMHnvr7Bf7_aClHizOIjCezqLDYcBwqST-KoMpG1UxxHY)/dm/3/x8dhap9/s/live-2.m3u8
+https://dailymotionlive.akamaized.net/sec(D9J3chSPMBKwmID2SmGTMJKepQS0_E99bTDtLDDoeeS9CgD3iooWFkNnOpPQweDx)/dm/3/x8dhap9/s/live-2.m3u8
 #EXTINF:0,24h
 #EXTGRP:Photocall
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -116,6 +119,9 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:0,El Pais
 #EXTGRP:Photocall
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0,La 8 Valencia
+#EXTGRP:Photocall
+https://streaming004.gestec-video.com/hls/8TV.m3u8
 
 #EXTINF:0,A3Cine
 #EXTGRP:IptvOrg
