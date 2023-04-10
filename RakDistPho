@@ -33,7 +33,7 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0,Distro Motorvision
 #EXTGRP:Distro
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/9582e81f-cd0b-4d9f-834f-fcb3223b1ff7/3.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/cec76228-16d3-45fe-b8ab-59509dbc9309/0.m3u8
 #EXTINF:0,Distro Tu cine
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/30e8e3a8-e661-4846-b242-da9b54c858ba/4.m3u8
@@ -42,7 +42,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/be9c004b-0ef1-49a1-85fe-610e4005a53c/4.m3u8
 #EXTINF:0,Distro Top Cine
 #EXTGRP:Distro
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/3367e506-66ac-4a12-b6da-dde804946ebc/4.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/52573805-2b98-4d67-91ba-9734a5e74c6d/2.m3u8
 #EXTINF:0,Distro Tu Cine
 #EXTGRP:Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/53849fd1-d944-46c9-a103-2a141a038ef1/5.m3u8
@@ -122,6 +122,12 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0,La 8 Valencia
 #EXTGRP:Photocall
 https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:0,Etb1
+#EXTGRP:Photocall
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8?start=1681104062
+#EXTINF:0,Etb2
+#EXTGRP:Photocall
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?start=1681104210
 
 #EXTINF:0,A3Cine
 #EXTGRP:IptvOrg
