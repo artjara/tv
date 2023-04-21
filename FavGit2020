@@ -267,3 +267,63 @@ https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Rakuten
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:0,Universal TV
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_TV/index.m3u8
+#EXTINF:0,Warner TV
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Entretenimiento/WARNER_TV/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Entretenimiento/PARAMOUNT/index.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:0,Antena 3
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
+#EXTINF:0,Universal Premiere
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
+#EXTINF:0,Discovery World
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
+#EXTINF:0,Discovery Sciences
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
+#EXTINF:0,Discovery ID
+#EXTGRP:Cultura
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
+#EXTINF:0,Discovery H&H
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_HH/index.m3u8
+#EXTINF:0,History Channel
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
+#EXTINF:0,A&E
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/A_E/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/stream/Cultura/ANIMAL_PLANET/index.m3u8
+
+
+
