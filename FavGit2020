@@ -324,6 +324,8 @@ http://tv.teleclub.xyz/stream/Cultura/A_E/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Teleclub
 http://tv.teleclub.xyz/stream/Cultura/ANIMAL_PLANET/index.m3u8
-
+#EXTINF:0,Love Nature 4K
+#EXTGRP:Documentales
+http://tv.teleclub.xyz/stream/Cultura/LOVENATURE_4K/index.m3u8
 
 
