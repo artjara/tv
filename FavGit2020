@@ -236,4 +236,35 @@ https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-m
 #EXTGRP:Cine
 https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4542&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=06bcf6ab-b68d-49d5-aa1a-e1008b306fa7&ads.user_type=visitor&ads.wurl_channel=1372
 
+#EXTINF:0,Vivir con Gatos
+#EXTGRP:Documental
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8    okokok
+#EXTINF:0,Vivir con Perros
+#EXTGRP:Documental
+https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
+
+#EXTINF:0,Rakuten Accion 
+#EXTGRP:Rakuten
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Accion | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten  TV Comedias | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten  TV Drama | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Family | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Stories | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Top Movies | HD | Jap
+#EXTGRP:Rakuten
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/18ab383c-cff7-4e04-9cc6-ce285f7b62bf/2.m3u8
+#EXTINF:0,Rakuten sin nombre
+#EXTGRP:Rakuten
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
