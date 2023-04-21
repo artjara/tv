@@ -303,8 +303,8 @@ http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
 #EXTINF:0,Discovery Sciences
 #EXTGRP:Teleclub
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
-#EXTINF:0,Discovery ID
-#EXTGRP:Cultura
+#EXTINF:0,DiscoveryID
+#EXTGRP:Teleclub
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
 #EXTINF:0,Discovery H&H
 #EXTGRP:Teleclub
