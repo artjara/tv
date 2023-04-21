@@ -75,8 +75,8 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF:0,Foro TV Mex
 #EXTGRP:Latino
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:0,Tele SUR Ven
-#EXTGRP:Latino
+#EXTINF:0,TeleSUR Ven
+#EXTGRP:Inter
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,ABC TV Paragu
 #EXTGRP:Latino
@@ -105,8 +105,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,Sa:Wow!
 #EXTGRP:Latino
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:0,Int:CGTN ES
-#EXTGRP:Latino
+#EXTINF:0,Int: CGTN ES
+#EXTGRP:Inter
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,Cr:Telesur CR
 #EXTGRP:Latino
@@ -184,7 +184,7 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA
 #EXTINF:0,MAVTV Motorsports Network
 #EXTGRP:Documentales
 https://1ed7111548254b7080611444388d3b50.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_MAVTVMotorSportsNetwork/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=108&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=d9ad19d6-3493-4dd8-ac35-c18033ce0785&ads.user_type=visitor&ads.wurl_channel=611
-#EXTINF:0,MOTORVISION.TV
+#EXTINF:0,Motorvision.TV
 #EXTGRP:Documentales
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=8d844d0e-941e-4d51-b7d9-b9239e0e86fb&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish
 #EXTINF:0,Buen Viaje
@@ -235,11 +235,11 @@ https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-m
 #EXTGRP:Cine
 https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4542&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=06bcf6ab-b68d-49d5-aa1a-e1008b306fa7&ads.user_type=visitor&ads.wurl_channel=1372
 
-#EXTINF:0,Vivir con Gatos
-#EXTGRP:Documental
+#EXTINF:0,Vivir co Gatos
+#EXTGRP:Documentales
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8    okokok
-#EXTINF:0,Vivir con Perros
-#EXTGRP:Documental
+#EXTINF:0,Vivir co Perros
+#EXTGRP:Documentales
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
 
 #EXTINF:0,Rakuten Accion 
