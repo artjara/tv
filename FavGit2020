@@ -1,139 +1,138 @@
 #EXTM3U
 
-#EXTINF:0,13MaxTelevision.ar 1080
+#EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:0,AMC
 #EXTGRP:Latino
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:0,Ame47
+#EXTINF:0,Ame 47
 #EXTGRP:Latino
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:0,Antares
+#EXTINF:0,Antaress
 #EXTGRP:Latino
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0,Antena Seis TV (720p)
+#EXTINF:0,Antena SeisTV (720p)
 #EXTGRP:Latino
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
-#EXTINF:0,BBC America (720p)
+#EXTINF:0,BBC America(720p)
 #EXTGRP:Latino
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:0,Canal 24 Horas (720p)
+#EXTINF:0,Canal 24 Horas(720p)
 #EXTGRP:Latino
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:0,Canal 24 Horas Canarias (576p)
+#EXTINF:0,Canal 24 Horas Canarias(576p)
 #EXTGRP:Latino
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:0,Carivision
 #EXTGRP:Latino
 https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
-#EXTINF:0,Cine Sureno (1080p)
+#EXTINF:0,Cine Sureno(1080p)
 #EXTGRP:Cine
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:0,CineAr720
+#EXTINF:0,CineAr 720
 #EXTGRP:Latino
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:0,DW esp 1080
+#EXTINF:0,DW esp1080
 #EXTGRP:Inter
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0,El Pais
+#EXTINF:0,El.Pais
 #EXTGRP:Inter
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:0,El Sol 404p
+#EXTINF:0,El Sol404p
 #EXTGRP:Latino
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
-#EXTINF:0,Etb720
+#EXTINF:0,Etb 720
 #EXTGRP:Latino
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:0,EuroChannel
+#EXTINF:0,Euro Channel
 #EXTGRP:Cine
 https://mfe01.tring.al/delta/106/out/u/1120_3.m3u8
-#EXTINF:0,Motor Sur Media
+#EXTINF:0,Motor SurMedia
 #EXTGRP:Latino
 https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
-#EXTINF:0,Orbit
+#EXTINF:0,Orbitt
 #EXTGRP:Latino
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:0,PlatziTv 1080
 #EXTGRP:Latino
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:0,Int: A3Cine
+#EXTINF:0,Int:A3Cine
 #EXTGRP:Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:0,Senal Col
+#EXTINF:0,SenalCol
 #EXTGRP:Latino
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0,Cr: DHE
+#EXTINF:0,Cr:DHE
 #EXTGRP:Latino
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:0,24h
+#EXTINF:0,24 h
 #EXTGRP:Latino
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:0,El Financiero Mexico
+#EXTINF:0,El Financiero Mex
 #EXTGRP:Latino
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-#EXTINF:0,FORO TV Mexico
+#EXTINF:0,Foro TV Mex
 #EXTGRP:Latino
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:0,TeleSUR Ven
+#EXTINF:0,Tele SUR Ven
 #EXTGRP:Latino
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0,ABC TV Paraguay
+#EXTINF:0,ABC TV Paragu
 #EXTGRP:Latino
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:0,DOM: Tv del Este
+#EXTINF:0,DOM:Tv del Este
 #EXTGRP:Latino
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Cul: Parana Turismo
+#EXTINF:0,Cul:Parana Turismo
 #EXTGRP:Latino
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:0,Int: CGTN en
+#EXTINF:0,Int:CGTN en
 #EXTGRP:Inter
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,Ar: TLX Telemax
+#EXTINF:0,Ar:TLX Telemax
 #EXTGRP:Latino
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0,Cr: TeleSur
+#EXTINF:0,Cr:TeleSur
 #EXTGRP:Latino
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Ar: TLX
+#EXTINF:0,Ar:TLX
 #EXTGRP:Latino
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
-#EXTINF:0,Cr: Extrema
+#EXTINF:0,Cr:Extrema
 #EXTGRP:Latino
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,Sa: Wow!
+#EXTINF:0,Sa:Wow!
 #EXTGRP:Latino
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:0,Int: CGTN ES
+#EXTINF:0,Int:CGTN ES
 #EXTGRP:Latino
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,Cr: Telesur CR
+#EXTINF:0,Cr:Telesur CR
 #EXTGRP:Latino
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Cr: Extrema TV
+#EXTINF:0,Cr:Extrema TV
 #EXTGRP:Latino
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,Cr: TeleSur cr
+#EXTINF:0,Cr:TeleSur cr
 #EXTGRP:Latino
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0,Mu: MusicTop
+#EXTINF:0,Mu:MusicTop
 #EXTGRP:Musica
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:0,Int: Cultura 24
+#EXTINF:0,Int:Cultura 24
 #EXTGRP:Musica
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:0,Mx: Telemax
+#EXTINF:0,Mx:Telemax
 #EXTGRP:Latino
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:0,Clasica FM Radio
+#EXTINF:0,Clasica FM.Radio
 #EXTGRP:Musica
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,Clasica y Barroca | Buenos Aires
+#EXTINF:0,Clasica.Y.Barroca | Buenos Aires
 #EXTGRP:Musica
 http://200.110.145.2:8087/stream
-
 
 #EXTINF:0,Peliculas Top
 #EXTGRP:Rakuten2
