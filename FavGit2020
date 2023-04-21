@@ -3,7 +3,7 @@
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:0,AMC
+#EXTINF:0,A M C
 #EXTGRP:Latino
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:0,Ame 47
@@ -24,7 +24,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0,Canal 24 Horas Canarias(576p)
 #EXTGRP:Latino
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:0,Carivision
+#EXTINF:0,Carivisionn
 #EXTGRP:Latino
 https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 #EXTINF:0,Cine Sureno(1080p)
@@ -54,7 +54,7 @@ https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
 #EXTINF:0,Orbitt
 #EXTGRP:Latino
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:0,PlatziTv 1080
+#EXTINF:0,Platzi Tv 1080
 #EXTGRP:Latino
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:0,Int:A3Cine
@@ -127,10 +127,10 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 #EXTGRP:Latino
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:0,Clasica FM.Radio
+#EXTINF:0,Clasica FM Radio
 #EXTGRP:Musica
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,Clasica.Y.Barroca | Buenos Aires
+#EXTINF:0,Clasica y Barroca Buenos Aires
 #EXTGRP:Musica
 http://200.110.145.2:8087/stream
 
