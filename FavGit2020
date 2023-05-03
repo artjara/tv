@@ -130,9 +130,15 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:0,Clasica FM Radio
 #EXTGRP:Musica
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,Clasica y Barroca Buenos Aires
+#EXTINF:0,xxClasica y Barroca Buenos Aires
 #EXTGRP:Musica
 http://200.110.145.2:8087/stream
+#EXTINF:0,U Antioquia radio
+#EXTGRP:Musica
+https://liveingesta118.cdnmedia.tv/uantioquialive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:0,Radionica
+#EXTGRP:Musica
+https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8
 
 #EXTINF:0,Peliculas Top
 #EXTGRP:Rakuten2
