@@ -136,6 +136,30 @@ http://200.110.145.2:8087/stream
 #EXTINF:0,U Antioquia radio
 #EXTGRP:Musica
 https://liveingesta118.cdnmedia.tv/uantioquialive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:0,U Bolivariana radio
+#EXTGRP:Musica
+http://131.0.136.54:7630/stream/1/
+#EXTINF:0,Venice Classic Radio
+#EXTGRP:Musica
+http://uk2.streamingpulse.com:8010/stream/1/
+#EXTINF:0,Jazz
+#EXTGRP:Musica
+http://pnj-01.stream101.com:9035/live
+#EXTINF:0,Mozart
+#EXTGRP:Musica
+http://clasicradio.ro:8300/stream/1/
+#EXTINF:0,Klassik Radio Nature
+#EXTGRP:Musica
+http://stream.klassikradio.de/nature/mp3-128
+#EXTINF:0,Klassik Beethoven
+#EXTGRP:Musica
+http://stream.klassikradio.de/beethoven/mp3-128
+#EXTINF:0,Klassik Rock
+#EXTGRP:Musica
+http://stream.klassikradio.de/klassikrock/mp3-128
+#EXTINF:0,Klassik Mozart
+#EXTGRP:Musica
+http://stream.klassikradio.de/mozart/mp3-128
 #EXTINF:0,Radionica
 #EXTGRP:Musica
 https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8
