@@ -297,83 +297,102 @@ https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Rakuten
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:0,Universal TV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_TV/index.m3u8
-#EXTINF:0,Warner TV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/WARNER_TV/index.m3u8
-#EXTINF:0,AXN
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/PARAMOUNT/index.m3u8
-#EXTINF:0,Studio Universal
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:0,Antena 3
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
-#EXTINF:0,Universal Premiere
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:0,Discovery Theater
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
-#EXTINF:0,Discovery World
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
-#EXTINF:0,Discovery Sciences
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
-#EXTINF:0,DiscoveryID
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
-#EXTINF:0,Discovery H&H
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_HH/index.m3u8
-#EXTINF:0,History Channel
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
-#EXTINF:0,H2
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
-#EXTINF:0,A&E
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/A_E/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Cultura/ANIMAL_PLANET/index.m3u8
-#EXTINF:0,Love Nature 4K
-#EXTGRP:Documentales
-http://tv.teleclub.xyz/stream/Cultura/LOVENATURE_4K/index.m3u8
-
-#EXTINF:0,Sony
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/SONY/index.m3u8
 #EXTINF:0,Universal Crime
 #EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_CRIME/index.m3u8
+http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_CRIME/index.m3u8
 #EXTINF:0,Universal Comedy
 #EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
+http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_COMEDY/index.m3u8
 #EXTINF:0,Star Channel
 #EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8
+http://tv.teleclub.xyz/envivo/Teleclub/STAR_CHANNEL/index.m3u8
+#EXTINF:0,Universal TV
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_TV/index.m3u8
+#EXTINF:0,Warner TV
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/WARNER_TV/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/AXN/index.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/PARAMOUNT/index.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:0,FX
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/FX/index.m3u8
+#EXTINF:0,TBS
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/TBS/index.m3u8
+#EXTINF:0,TNT
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/TNT/index.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/TNT_SERIES/index.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/CINEMAX/index.m3u8
+#EXTINF:0,Sony
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/SONY/index.m3u8
+#EXTINF:0,DePelicula
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/DEPELICULA/index.m3u8
+#EXTINF:0,Cinecanal
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/CINECANAL/index.m3u8
+#EXTINF:0,HBO
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO/index.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_2/index.m3u8
+#EXTINF:0,HBO +
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_PLUS/index.m3u8
+#EXTINF:0,HBO Mundi
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_MUNDI/index.m3u8
+#EXTINF:0,HBO Pop
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_POP/index.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_SIGNATURE/index.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_XTREME/index.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/HBO_FAMILY/index.m3u8
+#EXTINF:0,Golden
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN/index.m3u8
+#EXTINF:0,Golden Edge
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_EDGE/index.m3u8
+#EXTINF:0,Golden Premier
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_PREMIER/index.m3u8
+#EXTINF:0,Golden Plus
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_PLUS/index.m3u8
+#EXTINF:0,AMC
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/AMC/index.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Teleclub/SPACE/index.m3u8
 #EXTINF:0,Universal Premiere
 #EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality
 #EXTGRP:Teleclub
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
-
+http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
+#EXTINF:0,Canal E!
+#EXTGRP:Teleclub
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
