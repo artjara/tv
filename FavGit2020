@@ -49,18 +49,6 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Super
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890
 
-#EXTINF:0,HGTV victor
-#EXTGRP:Super
-http://elmonkey.us:25461/Victor/Victor/43
-#EXTINF:0,Discovery Turbo (victor)
-#EXTGRP:Super
-http://elmonkey.us:25461/Victor/Victor/52
-#EXTINF:0,A&E (victor)
-#EXTGRP:Super
-http://elmonkey.us:25461/Victor/Victor/6
-#EXTINF:0,Films & Art (victor)
-#EXTGRP:Super
-http://elmonkey.us:25461/Victor/Victor/252
 #EXTINF:0,Discovery Turbo (teleclub)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
