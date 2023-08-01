@@ -66,19 +66,19 @@ http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8
 #EXTGRP:Super
 http://clubtv.link/j0723/key2707/lista.php?c=225&f=.m3u8
 
-#EXTINF:0,Divinity
+#EXTINF:0,Divinity (club)
 #EXTGRP:Super
 http://clubtv.link/j0723/key2707/listaes1.php?c=14059
-#EXTINF:0,Energy
+#EXTINF:0,Energy (club)
 #EXTGRP:Super
 http://clubtv.link/j0723/key2707/listaes1.php?c=14060
-#EXTINF:0,Cuatro HD
+#EXTINF:0,Cuatro HD (club)
 #EXTGRP:Super
 http://clubtv.link/j0723/key2707/listaes1.php?c=14029
-#EXTINF:0,Peliculas Mania
+#EXTINF:0,Peliculas Mania (club)
 #EXTGRP:Super
 https://clubtv.link/j0723/key2707/24.php?c=peliculas_mania
-#EXTINF:0,Cinemundo Plus
+#EXTINF:0,Cinemundo Plus (club)
 #EXTGRP:Super
 https://clubtv.link/j0723/key2707/24.php?c=cinemundo_plus
 
