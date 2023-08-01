@@ -97,47 +97,46 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 
 #EXTINF:0,HBO 2 (club)
-#EXTGRP:HBORak 
+#EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=72&f=.m3u8
 #EXTINF:0,HBO 2-USA (club)
-#EXTGRP:HBORak 
+#EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=223&f=.m3u8
 #EXTINF:0,HBO Family (club)
-#EXTGRP:HBORak 
+#EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=73&f=.m3u8
 #EXTINF:0,HBO Family (USA)(club)
-#EXTGRP:HBORak 
+#EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=224&f=.m3u8
 #EXTINF:0,HBO Plus (club)
-#EXTGRP:HBORak 
+#EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=215&f=.m3u8
 #EXTINF:0,HBO Signature (club)
-
-#EXTGRP:HBORak 
+#EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=182&f=.m3u8
 #EXTINF:0,HBO (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 #EXTINF:0,HBO 2 (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
 #EXTINF:0,HBO + (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 #EXTINF:0,HBO Mundi (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8
 #EXTINF:0,HBO Pop (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8
 #EXTINF:0,HBO Signature (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 #EXTINF:0,HBO Xtreme (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
 #EXTINF:0,HBO Family (tele)
-#EXTGRP:HBORak
+#EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
 #EXTINF:0,Rak2. Top
@@ -162,7 +161,6 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:HBORak
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890
 
-
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -172,7 +170,7 @@ https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/62407
 #EXTINF:0,Ame 47
 #EXTGRP:Latino Inter
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:0,Antaress
+#EXTINF:0,Antares
 #EXTGRP:Latino Inter
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:0,Antena SeisTV (720p)
@@ -271,7 +269,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0,BBC Drama
 #EXTGRP:Latino Inter
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=57fa5e00-c822-4695-a1a3-67a17cbea916&ads.user_type=visitor&ads.wurl_channel=988
-
 
 #EXTINF:0,Mu:MusicTop
 #EXTGRP:Musica
@@ -416,28 +413,28 @@ https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/
 https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mctves-rakuten/CDN/playlist.m3u8?ads_amagi_channel=825&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4440&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=09d00771-0a0a-4984-8852-5138bf91930b&ads_user_type=visitor
 
 #EXTINF:0,Rakuten Accion 
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten TV Accion | HD | Jap
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Rakuten TV Comedias | HD | Jap
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten TV Drama | HD | Jap
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Rakuten TV Family | HD | Jap
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten TV Stories | HD | Jap
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0,Rakuten TV Top Movies | HD | Jap
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/18ab383c-cff7-4e04-9cc6-ce285f7b62bf/2.m3u8
 #EXTINF:0,Rakuten Top Movies2
-#EXTGRP:Rakuten
+#EXTGRP:Rakuten2
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0,Universal Crime
@@ -681,7 +678,6 @@ http://clubtv.link/0108a/key2707/lista.php?c=57&f=.m3u8
 #EXTGRP:ClubTv
 http://clubtv.link/0108a/key2707/lista.php?c=72&f=.m3u8
 
-
 #EXTINF:0,Simpson Maniahd189
 #EXTGRP:247 ClubTv
 https://clubtv.link/0108a/key2707/24.php?c=simpson_maniahd189
@@ -730,7 +726,6 @@ https://clubtv.link/0108a/key2707/24.php?c=futurama_mania_
 #EXTINF:0,Agente de Familia
 #EXTGRP:247 ClubTv
 https://clubtv.link/0108a/key2707/24.php?c=agente_de_familia1
-
 
 #EXTINF:0,Disney
 #EXTGRP:247 ClubTv
