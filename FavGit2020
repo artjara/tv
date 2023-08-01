@@ -65,6 +65,9 @@ http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8
 #EXTINF:0,HGTV usa(club)
 #EXTGRP:Super
 http://clubtv.link/j0723/key2707/lista.php?c=225&f=.m3u8
+#EXTINF:0,HGTV (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
 
 #EXTINF:0,Divinity (club)
 #EXTGRP:Super
@@ -81,12 +84,44 @@ https://clubtv.link/j0723/key2707/24.php?c=peliculas_mania
 #EXTINF:0,Cinemundo Plus (club)
 #EXTGRP:Super
 https://clubtv.link/j0723/key2707/24.php?c=cinemundo_plus
-
+#EXTINF:0,Lifetime (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
+#EXTINF:0,CNN en Espanol (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:0,Canal E! (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
+#EXTINF:0,Antena 3 (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
+#EXTINF:0,Discovery Turbo (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
+#EXTINF:0,Discovery Channel (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:0,Discovery Theater (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8
+#EXTINF:0,Discovery World (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
+#EXTINF:0,Discovery Sciences (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
+#EXTINF:0,Discovery ID (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+#EXTINF:0,A&E (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO 
 http://clubtv.link/j0723/key2707/lista.php?c=72&f=.m3u8
-#EXTINF:0,HBO 2 (USA)(club)
+#EXTINF:0,HBO 2-USA (club)
 #EXTGRP:HBO 
 http://clubtv.link/j0723/key2707/lista.php?c=223&f=.m3u8
 #EXTINF:0,HBO Family (club)
@@ -102,8 +137,30 @@ http://clubtv.link/j0723/key2707/lista.php?c=215&f=.m3u8
 #EXTGRP:HBO 
 http://clubtv.link/j0723/key2707/lista.php?c=182&f=.m3u8
 
-
-
+#EXTINF:0,HBO (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+#EXTINF:0,HBO 2 (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:0,HBO + (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
+#EXTINF:0,HBO Mundi (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8
+#EXTINF:0,HBO Pop (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8
+#EXTINF:0,HBO Signature (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
+#EXTINF:0,HBO Xtreme (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
+#EXTINF:0,HBO Family (tele)
+#EXTGRP:HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
@@ -270,7 +327,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTGRP:Musica
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=StingrayGreatestHits&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=fbd7c8de-59d7-42c2-94f2-f3dcb561f16b&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991738&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=StingrayGreatestHits
 
-
 #EXTINF:0,Peliculas Top
 #EXTGRP:Rakuten2
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2be8bd0c-7bf7-4184-b458-f7d5515f9a53&ads.user_type=visitor&ads.wurl_channel=840
@@ -364,7 +420,6 @@ https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-m
 #EXTGRP:Cine
 https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4542&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=06bcf6ab-b68d-49d5-aa1a-e1008b306fa7&ads.user_type=visitor&ads.wurl_channel=1372
 
-
 #EXTINF:0,Rakuten Accion 
 #EXTGRP:Rakuten
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
@@ -438,32 +493,6 @@ http://tv.teleclub.xyz/envivo/Teleclub/DEPELICULA/index.m3u8
 #EXTINF:0,Cinecanal
 #EXTGRP:Teleclub
 http://tv.teleclub.xyz/envivo/Teleclub/CINECANAL/index.m3u8
-
-#EXTINF:0,HBO (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO/index.m3u8
-#EXTINF:0,HBO 2 (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_2/index.m3u8
-#EXTINF:0,HBO + (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_PLUS/index.m3u8
-#EXTINF:0,HBO Mundi (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_MUNDI/index.m3u8
-#EXTINF:0,HBO Pop (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_POP/index.m3u8
-#EXTINF:0,HBO Signature (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_SIGNATURE/index.m3u8
-#EXTINF:0,HBO Xtreme (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_XTREME/index.m3u8
-#EXTINF:0,HBO Family (tele)
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_FAMILY/index.m3u8
-
 #EXTINF:0,Golden
 #EXTGRP:Teleclub
 http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN/index.m3u8
@@ -488,9 +517,6 @@ http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality
 #EXTGRP:Teleclub
 http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
-#EXTINF:0,Canal E!
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
 
 #EXTGRP:ClubTv
 http://clubtv.link/j0723/key2707/lista.php?c=178&f=.m3u8
