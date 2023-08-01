@@ -96,6 +96,7 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 
+
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=72&f=.m3u8
@@ -160,6 +161,7 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Rak2. Peliculas Romanticass
 #EXTGRP:HBO Rak
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890
+
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
