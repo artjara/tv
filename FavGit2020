@@ -40,7 +40,7 @@ http://clubtv.link/0108a/key2707/lista.php?c=230&f=.m3u8
 #EXTINF:0,Love Nature 4K (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8
-#EXTINF:0,HGTV usa(club)
+#EXTINF:0,HGTV usa (club)
 #EXTGRP:Super
 http://clubtv.link/0108a/key2707/lista.php?c=225&f=.m3u8
 #EXTINF:0,HGTV (tele)
@@ -105,7 +105,7 @@ http://clubtv.link/0108a/key2707/lista.php?c=223&f=.m3u8
 #EXTINF:0,HBO Family (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=73&f=.m3u8
-#EXTINF:0,HBO Family (USA)(club)
+#EXTINF:0,HBO Family-USA (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/0108a/key2707/lista.php?c=224&f=.m3u8
 #EXTINF:0,HBO Plus (club)
@@ -326,32 +326,57 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=StingrayGreatestHits&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=fbd7c8de-59d7-42c2-94f2-f3dcb561f16b&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991738&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=StingrayGreatestHits
 
 #EXTINF:0,Peliculas Top
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2be8bd0c-7bf7-4184-b458-f7d5515f9a53&ads.user_type=visitor&ads.wurl_channel=840
 #EXTINF:0,Accion
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://7316af19af3348fbafec08db40c987fb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenActionMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2496&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2b156ac6-d900-41c2-bacb-c2532d8003fb&ads.user_type=visitor&ads.wurl_channel=427
 #EXTINF:0,Comedia
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c1f49159-b7bd-4632-bb6a-6e5858983275&ads.user_type=visitor&ads.wurl_channel=428
 #EXTINF:0,Drama
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://43acc28426e84e7b8a691e3503112bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2498&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=cc9be829-ab69-4e2c-b280-d996746e18ec&ads.user_type=visitor&ads.wurl_channel=429
 #EXTINF:0,Cine Espanol
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2929&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=99cf9d73-63fe-4a7b-8e1b-134f337272e2&ads.user_type=visitor&ads.wurl_channel=794
 #EXTINF:0,Thrillers
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3330&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4f4d35f2-f5e3-4603-b7b1-212eb68ed78c&ads.user_type=visitor&ads.wurl_channel=884
 #EXTINF:0,Peliculas Romanticas
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890
 #EXTINF:0,Documentales
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://d555824e3a594aefaefc94552a43d278.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenSpotlight/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2497&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=708d7dd6-b2b4-4aff-b8e0-1a13cc1f006f&ads.user_type=visitor&ads.wurl_channel=430
 #EXTINF:0,Rakuten VIKI
-#EXTGRP:Rakuten2
+#EXTGRP:Rakuten
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=a9c51cfd-acda-428b-9497-a716e71e293c&ads.user_type=visitor&ads.wurl_channel=1065
+
+#EXTINF:0,Rakuten Accion 
+#EXTGRP:Rakuten
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Accion | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Comedias | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Drama | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Family | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Stories | HD | Jap
+#EXTGRP:Rakuten
+https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,Rakuten TV Top Movies | HD | Jap
+#EXTGRP:Rakuten
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/18ab383c-cff7-4e04-9cc6-ce285f7b62bf/2.m3u8
+#EXTINF:0,Rakuten Top Movies2
+#EXTGRP:Rakuten
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0,Naturaleza
 #EXTGRP:Documentales
@@ -412,30 +437,6 @@ https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Cine
 https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mctves-rakuten/CDN/playlist.m3u8?ads_amagi_channel=825&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4440&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=09d00771-0a0a-4984-8852-5138bf91930b&ads_user_type=visitor
 
-#EXTINF:0,Rakuten Accion 
-#EXTGRP:Rakuten2
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,Rakuten TV Accion | HD | Jap
-#EXTGRP:Rakuten2
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten TV Comedias | HD | Jap
-#EXTGRP:Rakuten2
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,Rakuten TV Drama | HD | Jap
-#EXTGRP:Rakuten2
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Rakuten TV Family | HD | Jap
-#EXTGRP:Rakuten2
-https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,Rakuten TV Stories | HD | Jap
-#EXTGRP:Rakuten2
-https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0,Rakuten TV Top Movies | HD | Jap
-#EXTGRP:Rakuten2
-https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/18ab383c-cff7-4e04-9cc6-ce285f7b62bf/2.m3u8
-#EXTINF:0,Rakuten Top Movies2
-#EXTGRP:Rakuten2
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0,Universal Crime
 #EXTGRP:Teleclub
