@@ -96,6 +96,32 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 
+#EXTINF:0,Discovery Familia (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
+#EXTINF:0,NFL Network (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
+#EXTINF:0,Antena3 (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
+
+#EXTINF:0,Universal Crime (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8
+#EXTINF:0,Universal Comedy (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
+#EXTINF:0,Universal TV (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
+#EXTINF:0,Universal Premiere (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+#EXTINF:0,Universal Reality (tele)
+#EXTGRP:Super
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+
 
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
