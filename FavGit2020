@@ -28,6 +28,10 @@ http://clubtv.link/ag1308/key2707/listaes1.php?c=14028
 #EXTGRP:Super
 http://clubtv.link/ag1308/key2707/listaes1.php?c=46270
 
+#EXTINF:0,Antena3 3 (club)
+#EXTGRP:Super
+http://clubtv.link/ag1308/key2707/lista3.php?c=96
+
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
