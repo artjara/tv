@@ -1,32 +1,8 @@
 #EXTM3U
 
-#EXTINF:0,Classicaa FM Radio
+#EXTINF:0,Classica FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,LA 1 HD (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14023
-#EXTINF:0,LA 2 HD (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14026
-#EXTINF:0,24 h
-#EXTGRP:Super
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:0,La Sexta HD (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14032
-#EXTINF:0,Mezzo Live (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=46269
-#EXTINF:0,Canal Orbe 21 (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14017
-#EXTINF:0,Antena 3 HD (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14028
-#EXTINF:0,Classica (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=46270
 
 #EXTINF:0,Antena3 3 (club)
 #EXTGRP:Super
@@ -34,7 +10,6 @@ http://clubtv.link/1708a/top5546/lista3.php?c=96
 #EXTINF:0,Movistar Drama (club)
 #EXTGRP:Super
 http://clubtv.link/1708a/top5546/lista3.php?c=146
-
 
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
@@ -55,15 +30,6 @@ http://clubtv.link/1708a/top5546/lista.php?c=225&f=.m3u8
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
 
-#EXTINF:0,Divinity (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14059
-#EXTINF:0,Energy (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14060
-#EXTINF:0,Cuatro HD (club)
-#EXTGRP:Super
-http://clubtv.link/1708a/top5546/listaes1.php?c=14029
 #EXTINF:0,Peliculas Mania (club)
 #EXTGRP:Super
 https://clubtv.link/1708a/top5546/24.php?c=peliculas_mania
@@ -766,7 +732,6 @@ https://clubtv.link/1708a/top5546/24.php?c=futurama_mania_
 #EXTINF:0,Agente de Familia
 #EXTGRP:247 ClubTv
 https://clubtv.link/1708a/top5546/24.php?c=agente_de_familia1
-
 #EXTINF:0,Disney
 #EXTGRP:247 ClubTv
 https://clubtv.link/1708a/top5546/24.php?c=0ueen_disney
@@ -804,100 +769,305 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
 
-#EXTINF:0,AMC
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14000
-#EXTINF:0,AXN
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14001
-#EXTINF:0,AXN White
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14002
-#EXTINF:0,FDF
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13999
-#EXTINF:0,Movistar Accion
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13951
-#EXTINF:0,Movistar Cine
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13960
-#EXTINF:0,Movistar Comedia
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13955
-#EXTINF:0,Movistar Doc&Roll
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13964
-#EXTINF:0,Movistar Drama
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13962
-#EXTINF:0,Movistar Estrenos
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13961
-#EXTINF:0,Movistar Series
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13963
-#EXTINF:0,Movistar Series Mania
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13983
-#EXTINF:0,Paramount Network
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=13947
-#EXTINF:0,Syfy
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14004
-#EXTINF:0,TCM
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14006
-#EXTINF:0,Fox HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14078
-#EXTINF:0,Historia
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14075
-#EXTINF:0,LA 1 HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14023
-#EXTINF:0,LA 2 HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14026
-#EXTINF:0,La Sexta HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14032
-#EXTINF:0,Mezzo Live
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=46269
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14073
-#EXTINF:0,National Geographic HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14072
-#EXTINF:0,Odisea HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14076
+
+#EXTINF:0,La 1 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4407
+#EXTINF:0,La 2
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4408
+#EXTINF:0,24 Horas HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4409
+#EXTINF:0,Clan TV HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4410
 #EXTINF:0,Antena 3 HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14028
-#EXTINF:0,Canal Iberalia HD
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14056
-#EXTINF:0,Canal Orbe 21
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14017
-#EXTINF:0,Crime + Investigacion
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14070
-#EXTINF:0,Classica
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=46270
-#EXTINF:0,Discovery Channel
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14071
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4411
+#EXTINF:0,Cuatro HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4412
+#EXTINF:0,La Sexta HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4413
+#EXTINF:0,7 Noticias
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4414
+#EXTINF:0,AMC HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4415
+#EXTINF:0,Calle 13 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4417
+#EXTINF:0,Canal Extremadura TV
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4418
+#EXTINF:0,Hollywood
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4419
+#EXTINF:0,Canal Panda
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4420
+#EXTINF:0,Clan TVE
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4421
+#EXTINF:0,Comedy Central HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4422
+#EXTINF:0,Crimen Investigacion
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4423
+#EXTINF:0,Disney Channel HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4425
 #EXTINF:0,Divinity
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14059
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4426
+#EXTINF:0,DMAX
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4427
 #EXTINF:0,Energy
-#EXTGRP:Club ES
-http://clubtv.link/1708a/top5546/listaes1.php?c=14060
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4428
+#EXTINF:0,ETB 1 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4429
+#EXTINF:0,ETB 2 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4430
+#EXTINF:0,FOX
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4431
+#EXTINF:0,FOX HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4432
+#EXTINF:0,FOX FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4433
+#EXTINF:0,FOX Life
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4434
+#EXTINF:0,FOX Life HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4435
+#EXTINF:0,FOX Life FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4436
+#EXTINF:0,ETB SAT
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4437
+#EXTINF:0,ETB 1 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4438
+#EXTINF:0,ETB 2 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4439
+#EXTINF:0,MEGA HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4440
+#EXTINF:0,Movistar Accion
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4441
+#EXTINF:0,Movistar Accion HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4442
+#EXTINF:0,Movistar Accion FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4443
+#EXTINF:0,Movistar Cine
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4444
+#EXTINF:0,Movistar Cine Espa\u00f1ol FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4445
+#EXTINF:0,Movistar Accion FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4447
+#EXTINF:0,Movistar CineDoc&Roll
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4446
+#EXTINF:0,Movistar CineDoc&Roll FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4448
+#EXTINF:0,Movistar Comedia
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4449
+#EXTINF:0,Movistar Comedia HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4450
+#EXTINF:0,Movistar Comedia FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4451
+#EXTINF:0,Movistar Drama FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4454
+#EXTINF:0,Movistar Estrenos
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4455
+#EXTINF:0,Movistar Estrenos HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4456
+#EXTINF:0,Movistar Estrenos FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4457
+#EXTINF:0,Movistar Series
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4458
+#EXTINF:0,Movistar Series HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4459
+#EXTINF:0,Movistar Series hevc
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4460
+#EXTINF:0,Movistar Seriesmania
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4461
+#EXTINF:0,Movistar Seriesmania HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4462
+#EXTINF:0,Movistar Seriesmania FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4463
+#EXTINF:0,Movistar Disney+
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4464
+#EXTINF:0,Movistar Estrenos FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15205
+#EXTINF:0,Neox HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4471
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4472
+#EXTINF:0,Nova
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4473
+#EXTINF:0,Odisea HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4474
+#EXTINF:0,SyFy HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4475
+#EXTINF:0,Telecinco HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4476
+#EXTINF:0,Teledeporte FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4477
+#EXTINF:0,Telemadrid HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4478
+#EXTINF:0,Ten
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4480
+#EXTINF:0,TVE
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4481
+#EXTINF:0,Viajar HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4482
+#EXTINF:0,Blaze
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4483
+#EXTINF:0,Discovery Channel
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4484
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4485
+#EXTINF:0,Historia HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4486
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4487
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4488
+#EXTINF:0,National Geographic
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4489
+#EXTINF:0,National Geographic HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4490
+#EXTINF:0,SyFy HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4491
+#EXTINF:0,TNT HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4492
+#EXTINF:0,Interalmeria FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4498
+#EXTINF:0,PTV Cordoba HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4499
+#EXTINF:0,Canal Malaga
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4501
+#EXTINF:0,Aragon TV
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4502
+#EXTINF:0,Canal 25 Barbastro TV
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4504
+#EXTINF:0,EL Pinguino TV HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4505
+#EXTINF:0,Popular TV
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4506
+#EXTINF:0,TV5 Limares
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=4517
+#EXTINF:0,CANAL SUR 1 HD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15204
+#EXTINF:0,La Urban TV
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15208
+#EXTINF:0,Navarra TV
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15209
+#EXTINF:0,Taquilla 3
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15210
+#EXTINF:0,Super Radyo DZBB
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15211
+#EXTINF:0,A&E
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15212
+#EXTINF:0,ANTENA 3 Series FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15213
+#EXTINF:0,AXN
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15214
+#EXTINF:0,AXN White
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15215
+#EXTINF:0,COSMO
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15217
+#EXTINF:0,Fox
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15219
+#EXTINF:0,Sundance
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15227
+#EXTINF:0,TCM
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15228
+#EXTINF:0,TV3 FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15229
+#EXTINF:0,TVE INTERNACIONAL
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15230
+#EXTINF:0,MEZZO LIVE FHD
+#EXTGRP:Club Esp
+http://clubtv.link/1708a/top5546/esp2.php?c=15255
 
