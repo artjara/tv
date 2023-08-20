@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,Classica FM Radio
+#EXTINF:0,Clasica FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
 
@@ -13,13 +13,13 @@ http://clubtv.link/1708a/key4512/lista3.php?c=146
 
 #EXTINF:0,Cuatro SD (club)
 #EXTGRP:Super
-http://clubtv.link/1708a/top5546/esp.php?c=11
+http://clubtv.link/1708a/key4512/esp.php?c=11
 #EXTINF:0,La Sexta SD (club)
 #EXTGRP:Super
-http://clubtv.link/1708a/top5546/esp.php?c=17
+http://clubtv.link/1708a/key4512/esp.php?c=17
 #EXTINF:0,Mezzo Live FHD (club)
 #EXTGRP:Super
-http://clubtv.link/1708a/top5546/esp.php?c=394
+http://clubtv.link/1708a/key4512/esp.php?c=394
 
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
