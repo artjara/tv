@@ -1,20 +1,32 @@
 #EXTM3U
 
-#EXTINF:0,Classsiccca FM Radio
+#EXTINF:0,Classsic FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
+#EXTINF:0,LA 1 SD (club)
+#EXTGRP:Super
+http://clubtv.link/1708a/key4512/esp.php?c=2
+#EXTINF:0,LA 2 SD (club)
+#EXTGRP:Super
+http://clubtv.link/1708a/key4512/esp.php?c=5
 #EXTINF:0,Antena3 (club)
 #EXTGRP:Super
 http://clubtv.link/1708a/key4512/lista3.php?c=96
-#EXTINF:0,Movistar Drama (club)
+#EXTINF:0,ANTENA3 SD (club)
 #EXTGRP:Super
-http://clubtv.link/1708a/key4512/lista3.php?c=146
+http://clubtv.link/1708a/key4512/esp.php?c=8
 #EXTINF:0,Cuatro SD (club)
 #EXTGRP:Super
 http://clubtv.link/1708a/key4512/esp.php?c=11
+#EXTINF:0,Telecinco SD (club)
+#EXTGRP:Super
+http://clubtv.link/1708a/key4512/esp.php?c=14
 #EXTINF:0,La Sexta SD (club)
 #EXTGRP:Super
 http://clubtv.link/1708a/key4512/esp.php?c=17
+#EXTINF:0,Movistar Drama (club)
+#EXTGRP:Super
+http://clubtv.link/1708a/key4512/lista3.php?c=146
 #EXTINF:0,Mezzo Live FHD (club)
 #EXTGRP:Super
 http://clubtv.link/1708a/key4512/esp.php?c=394
