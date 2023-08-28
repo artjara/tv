@@ -1,6 +1,6 @@
-#EXTM3U   260823
+#EXTM3U
 
-#EXTINF:0,Clasic FM Radio
+#EXTINF:0,Classsic FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
 #EXTINF:0,LA 1 SD (club)
@@ -9,10 +9,13 @@ http://clubtv.link/260823/key4512/esp.php?c=2
 #EXTINF:0,LA 2 SD (club)
 #EXTGRP:Super
 http://clubtv.link/260823/key4512/esp.php?c=5
+#EXTINF:0,24 Horas SD (club)
+#EXTGRP:Super
+http://clubtv.link/260823/key4512/esp.php?c=22
 #EXTINF:0,Antena3 (club)
 #EXTGRP:Super
 http://clubtv.link/260823/key4512/lista3.php?c=96
-#EXTINF:0,ANTENA3 SD (club)
+#EXTINF:0,Antena3 SD (club)
 #EXTGRP:Super
 http://clubtv.link/260823/key4512/esp.php?c=8
 #EXTINF:0,Cuatro SD (club)
@@ -27,13 +30,28 @@ http://clubtv.link/260823/key4512/esp.php?c=17
 #EXTINF:0,Movistar Drama (club)
 #EXTGRP:Super
 http://clubtv.link/260823/key4512/lista3.php?c=146
+
 #EXTINF:0,Divinity (club)
 #EXTGRP:Super
-http://clubtv.link/260823/key4512/listaes1.php?c=14059
+http://clubtv.link/260823/key4512/esp.php?c=44
 #EXTINF:0,Energy (club)
 #EXTGRP:Super
-http://clubtv.link/260823/key4512/listaes1.php?c=14060
-
+http://clubtv.link/260823/key4512/esp.php?c=43
+#EXTINF:0,Star Tve (club)
+#EXTGRP:Super
+http://clubtv.link/260823/key4512/esp.php?c=57
+#EXTINF:0,Calle 13 SD  (club)
+#EXTGRP:Super
+http://clubtv.link/260823/key4512/esp.php?c=119
+#EXTINF:0,FDF SD  (club)
+#EXTGRP:Super
+http://clubtv.link/260823/key4512/esp.php?c=47
+#EXTINF:0,AtresCine HD  (club)
+#EXTGRP:Super
+http://clubtv.link/260823/key4512/esp.php?c=56
+#EXTINF:0,Buen Viaje SD  (club)
+#EXTGRP:Super
+http://clubtv.link/260823/key4512/esp.php?c=62
 
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
@@ -119,7 +137,6 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
-
 
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
@@ -1095,4 +1112,3 @@ http://clubtv.link/260823/key4512/esp2.php?c=15230
 #EXTINF:0,MEZZO LIVE FHD
 #EXTGRP:Club Esp
 http://clubtv.link/260823/key4512/esp2.php?c=15255
-
