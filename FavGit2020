@@ -239,9 +239,31 @@ https://clubtv.link/a1509/key4513/runtime.php?c=5106
 #EXTINF:0,RunTime CombaTV
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/runtime.php?c=5090
-#EXTGRP:HBO Rak
 #EXTINF:0,RunTime Vivaldi
+#EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/runtime.php?c=2806
+
+#EXTINF:0,DHE
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a05z
+#EXTINF:0,DHE SD
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a02x
+#EXTINF:0,Universal Cinema
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a0a3
+#EXTINF:0,Universal Comedia
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a08m
+#EXTINF:0,Universal Crimen
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a08l
+#EXTINF:0,Universal Premiere
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a08i
+#EXTINF:0,Universal Reality
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a08k
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
