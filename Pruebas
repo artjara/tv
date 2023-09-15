@@ -44,4 +44,13 @@ https://threespeakvideo.b-cdn.net/qqfxlpaa/720p.m3u8
 #EXTGRP:Inter
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:0,Playboy
+#EXTGRP:Prueba
+https://clubtv.link/a1509/key4513/lista.php?c=a04i
+#EXTINF:0,Venus
+#EXTGRP:Prueba
+https://clubtv.link/a1509/key4513/lista.php?c=a079
+
+
+
 
