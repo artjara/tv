@@ -52,6 +52,12 @@ http://clubtv.link/a1509/key4513/esp.php?c=56
 #EXTINF:0,Buen Viaje SD  (club)
 #EXTGRP:Super
 http://clubtv.link/a1509/key4513/esp.php?c=62
+#EXTINF:0,Sun Channel SD (club)
+#EXTGRP:Super
+https://clubtv.link/a1509/key4513/lista.php?c=a06v
+
+
+
 
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
@@ -137,6 +143,15 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+#EXTINF:0,Star TVE HD (club)
+#EXTGRP:Super
+https://clubtv.link/a1509/key4513/lista.php?c=a061
+#EXTINF:0,CNNE SD
+#EXTGRP:Super
+https://clubtv.link/a1509/key4513/lista.php?c=a05c
+#EXTINF:0,Canal Claro SD
+#EXTGRP:Super
+https://clubtv.link/a1509/key4513/lista.php?c=a04k
 
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
@@ -239,9 +254,6 @@ https://clubtv.link/a1509/key4513/runtime.php?c=5106
 #EXTINF:0,RunTime CombaTV
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/runtime.php?c=5090
-#EXTINF:0,RunTime Vivaldi
-#EXTGRP:HBO Rak
-https://clubtv.link/a1509/key4513/runtime.php?c=2806
 
 #EXTINF:0,DHE
 #EXTGRP:HBO Rak
@@ -264,6 +276,20 @@ https://clubtv.link/a1509/key4513/lista.php?c=a08i
 #EXTINF:0,Universal Reality
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a08k
+
+#EXTINF:0,Europa HD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a05x
+#EXTINF:0,Euro Chan SD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a06s
+#EXTINF:0,Sony Movies HD
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a05y
+#EXTINF:0,MyTime Movie
+#EXTGRP:HBO Rak
+https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34d3b291-8092-4340-a0dc-0d279d79732f&ads_user_type=visitor
+
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
