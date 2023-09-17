@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:0,Classsic FM Radio
+#EXTINF:0,Clasic FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
 #EXTINF:0,LA 1 SD (club)
@@ -55,9 +55,6 @@ http://clubtv.link/a1509/key4513/esp.php?c=62
 #EXTINF:0,Sun Channel SD (club)
 #EXTGRP:Super
 https://clubtv.link/a1509/key4513/lista.php?c=a06v
-
-
-
 
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
@@ -255,10 +252,10 @@ https://clubtv.link/a1509/key4513/runtime.php?c=5106
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/runtime.php?c=5090
 
-#EXTINF:0,DHE
+#EXTINF:0,DHE (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a05z
-#EXTINF:0,DHE SD
+#EXTINF:0,DHE SD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a02x
 #EXTINF:0,Universal Cinema
@@ -277,19 +274,33 @@ https://clubtv.link/a1509/key4513/lista.php?c=a08i
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a08k
 
-#EXTINF:0,Europa HD (club)
+#EXTINF:0,EuropaEuropa HD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a05x
-#EXTINF:0,Euro Chan SD (club)
+#EXTINF:0,EURO.Chann SD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a06s
-#EXTINF:0,Sony Movies HD
+#EXTINF:0,Sony Movies HD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a05y
-#EXTINF:0,MyTime Movie
+#EXTINF:0,MyTime Movie (club)
 #EXTGRP:HBO Rak
 https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34d3b291-8092-4340-a0dc-0d279d79732f&ads_user_type=visitor
-
+#EXTINF:0,Film & arts HD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a05s
+#EXTINF:0,A&E SD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a07u
+#EXTINF:0,Claro Cinema SD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a083
+#EXTINF:0,Life Time SD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a055
+#EXTINF:0,Star Channel HD (club)
+#EXTGRP:HBO Rak
+https://clubtv.link/a1509/key4513/lista.php?c=a084
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
