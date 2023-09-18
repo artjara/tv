@@ -302,19 +302,15 @@ https://clubtv.link/a1509/key4513/lista.php?c=a055
 #EXTGRP:HBO Rak
 https://clubtv.link/a1509/key4513/lista.php?c=a084
 
-
-#EXTINF:0,R.Peliculas
+#EXTINF:0,Rt.Peliculas
 #EXTGRP:HBO Rak
 https://stream.ads.ottera.tv/cl/230917ck3m97tos1oe3257ccmg/1280x720_3071200_0_f.m3u8?i=475_2154
-
-#EXTINF:0,R.Accion
+#EXTINF:0,Rt.Accion
 #EXTGRP:HBO Rak
 https://stream.ads.ottera.tv/cl/230917ck3mmjp9ffqp3if2eh2g/1280x720_3071200_0_f.m3u8?i=475_2550
-
-#EXTINF:0,R.Drama
+#EXTINF:0,Rt.Drama
 #EXTGRP:HBO Rak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8
-
 #EXTINF:0,Rt.TvAmor
 #EXTGRP:HBO Rak
 https://stream.ads.ottera.tv/cl/230917ck3modm3pdfka5a6fhdg/1280x720_2300000_0_f.m3u8?i=475_5573
