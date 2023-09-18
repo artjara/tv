@@ -303,44 +303,48 @@ https://clubtv.link/a1509/key4513/lista.php?c=a055
 https://clubtv.link/a1509/key4513/lista.php?c=a084
 
 
-#EXTINF:0,RT.Peliculas
+#EXTINF:0,R.Peliculas
 #EXTGRP:HBO Rak
 https://stream.ads.ottera.tv/cl/230917ck3m97tos1oe3257ccmg/1280x720_3071200_0_f.m3u8?i=475_2154
-#EXTINF:0,RT.Accion
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3m97tos1oe3257ccmg/1280x720_3071200_0_f.m3u8?i=475_2154
-#EXTINF:0,RT.Drama
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3maiknsepj8gm271tg/1280x720_3071200_0_f.m3u8?i=475_2550
-#EXTINF:0,RT.TvAmor
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3m97tos1oe3257ccmg/1280x720_3071200_0_f.m3u8?i=475_2154
-#EXTINF:0,RT.Comedia
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3mc8n9kmt9136ob84g/1280x720_3071200_0_f.m3u8?i=475_2551
-#EXTINF:0,RT.Crimen
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3m97tos1oe3257ccmg/1280x720_3071200_0_f.m3u8?i=475_2154
-#EXTINF:0,RT.Cinema
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3maiknsepj8gm271tg/1280x720_3071200_0_f.m3u8?i=475_2550
-#EXTINF:0,RT.Vivaldi
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3md96ptu7cme8ok610/1280x720_3071200_0_f.m3u8?i=475_4829
-#EXTINF:0,RT.CombaTv
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3md96ptu7cme8ok610/1280x720_3071200_0_f.m3u8?i=475_4829
-#EXTINF:0,RT.Familia
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3mcp0p7bq6tm3oqvt0/1280x720_3071200_0_f.m3u8?i=475_3533
-#EXTINF:0,RT.Romance
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3maiknsepj8gm271tg/1280x720_3071200_0_f.m3u8?i=475_2550
-#EXTINF:0,RT.Clic
-#EXTGRP:HBO Rak
-https://stream.ads.ottera.tv/cl/230917ck3mhc4h32dp3d9fu96g/1280x720_3070540_0_f.m3u8?i=475_4826
 
+#EXTINF:0,R.Accion
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3mmjp9ffqp3if2eh2g/1280x720_3071200_0_f.m3u8?i=475_2550
 
+#EXTINF:0,R.Drama
+#EXTGRP:HBO Rak
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8
+
+#EXTINF:0,Rt.TvAmor
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3modm3pdfka5a6fhdg/1280x720_2300000_0_f.m3u8?i=475_5573
+#EXTINF:0,Rt.Comedia
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3mpnlm3b683531llh0/1280x720_3071200_0_f.m3u8?i=475_2551
+#EXTINF:0,Rt.Crimen
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3mq59em6d55mup5u80/1280x720_3071200_0_f.m3u8?i=475_3533
+#EXTINF:0,Rt.Cinema
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3mr6tos1oe3257j7f0/1280x720_3071200_0_f.m3u8?i=475_4829
+#EXTINF:0,Rt.Vivaldi
+#EXTGRP:HBO Rak
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivalditv-runtimeusa/playlist.m3u8
+#EXTINF:0,Rt.CombaTv
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3msidm3b683531mku0/1920x1080_5929880_4_f.m3u8?i=475_5090
+#EXTINF:0,Rt.Familia
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3msrggv6tgl61o94jg/1280x720_3071200_0_f.m3u8?i=475_3528
+#EXTINF:0,Rt.Romance
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3mt75os1oe3257k240/1280x720_3071200_0_f.m3u8?i=475_3532
+#EXTINF:0,Rt.Clic
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3mtf5os1oe3257k5f0/1280x720_3071200_0_f.m3u8?i=475_4827
+#EXTINF:0,Rt.Azteca
+#EXTGRP:HBO Rak
+https://stream.ads.ottera.tv/cl/230917ck3n476ptu7cme8osmk0/1920x1080_4787200_4_f.m3u8?i=475_4828
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
