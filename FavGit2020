@@ -1,86 +1,94 @@
-#EXTM3U a1509/top6219
+#EXTM3U 
 
 #EXTINF:0,Clasic FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
 #EXTINF:0,LA 1 SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=2
+http://clubtv.link/a1509/top6219/esp.php?c=499099
 #EXTINF:0,LA 2 SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=5
+http://
 #EXTINF:0,24 Horas SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=22
+http://
 #EXTINF:0,Antena3 (club)
 #EXTGRP:Super
 http://clubtv.link/a1509/top6219/lista3.php?c=96
 #EXTINF:0,Antena3 SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=8
+http:// 
 #EXTINF:0,Cuatro SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=11
+http://clubtv.link/a1509/top6219/esp.php?c=499102
 #EXTINF:0,Telecinco SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=14
+http://clubtv.link/a1509/top6219/esp.php?c=499103 
 #EXTINF:0,La Sexta SD (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=17
+http:// 
 #EXTINF:0,Movistar Drama (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/lista3.php?c=146
+http:// 
 
 #EXTINF:0,Divinity (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=44
+http://clubtv.link/a1509/top6219/esp.php?c=499109
 #EXTINF:0,Energy (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=43
+http://clubtv.link/a1509/top6219/esp.php?c=499110 
 #EXTINF:0,Star Tve (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=57
+http:// 
 #EXTINF:0,Calle 13 SD  (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=119
+http://clubtv.link/a1509/top6219/esp.php?c=499124
 #EXTINF:0,FDF SD  (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=47
+http:// 
 #EXTINF:0,AtresCine HD  (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=56
+http://  
 #EXTINF:0,Buen Viaje SD  (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/esp.php?c=62
+http:// 
 #EXTINF:0,Sun Channel SD (club)
 #EXTGRP:Super
 https://clubtv.link/a1509/top6219/lista.php?c=a06v
+
+#EXTINF:0,Film & Arts HD (club)
+#EXTGRP:Super
+https://clubtv.link/a1509/top6219/lista.php?c=a05s
+#EXTINF:0,Film & Arts (club)
+#EXTGRP:Super
+https://clubtv.link/a1509/top6219/lista1.php?c=219
 
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
 #EXTINF:0,A&E (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/lista.php?c=178&f=.m3u8
+http:// 
 #EXTINF:0,Dicovery Turbo (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/lista.php?c=230&f=.m3u8
+http:// 
 #EXTINF:0,Love Nature 4K (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8
 #EXTINF:0,HGTV usa (club)
 #EXTGRP:Super
-http://clubtv.link/a1509/top6219/lista.php?c=225&f=.m3u8
+http:// 
 #EXTINF:0,HGTV (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
 
 #EXTINF:0,Peliculas Mania (club)
 #EXTGRP:Super
-https://clubtv.link/a1509/top6219/24.php?c=peliculas_mania
+https:// 
 #EXTINF:0,Cinemundo Plus (club)
 #EXTGRP:Super
-https://clubtv.link/a1509/top6219/24.php?c=cinemundo_plus
+https:// 
+
 #EXTINF:0,Lifetime (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
@@ -150,6 +158,7 @@ https://clubtv.link/a1509/top6219/lista.php?c=a05c
 #EXTGRP:Super
 https://clubtv.link/a1509/top6219/lista.php?c=a04k
 
+
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/a1509/top6219/lista.php?c=72&f=.m3u8
@@ -168,6 +177,8 @@ http://clubtv.link/a1509/top6219/lista.php?c=215&f=.m3u8
 #EXTINF:0,HBO Signature (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/a1509/top6219/lista.php?c=182&f=.m3u8
+
+
 #EXTINF:0,HBO (tele)
 #EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
@@ -192,6 +203,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
 #EXTINF:0,HBO Family (tele)
 #EXTGRP:HBO Rak
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
+
 
 #EXTINF:0,Rak2. Topp
 #EXTGRP:HBO Rak
