@@ -1,31 +1,30 @@
 #EXTM3U
+
 #EXTINF:0,Fontaneros local
-#EXTGRP:Pru
+#EXTGRP:Local
 http://127.0.0.1/xx/xvideo/fontaneros.mp4
 #EXTINF:0,Fontaneros 102
-#EXTGRP:Pru
+#EXTGRP:Local
 http://192.168.3.102/xx/xvideo/fontaneros.mp4
 #EXTINF:0,Tama mp3
-#EXTGRP:Pru
+#EXTGRP:Local
 http://192.168.3.102/xx/xvideo/tama.mp3
+
 #EXTINF:0,Musica cla
-#EXTGRP:Pru
+#EXTGRP:Musica
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/classical.m3u
-#EXTINF:0,Saber mas distro
-#EXTGRP:Pru
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/fcf324d8-f919-46a6-bfe2-847e949417de/2.m3u8
-#EXTINF:0,Clasica1
-#EXTGRP:Pru
+
+#EXTINF:0,Clasica Venice
+#EXTGRP:Musica
 http://uk2.streamingpulse.com:8010/stream/1/
-#EXTINF:0,Clasica2
-#EXTGRP:Pru
-http://174.36.206.197:8000/stream/1/
+
 #EXTINF:0,Playboy
 #EXTGRP:Prueba
 https://clubtv.link/a1509/key4513/lista.php?c=a04i
 #EXTINF:0,Venus
 #EXTGRP:Prueba
 https://clubtv.link/a1509/key4513/lista.php?c=a079
+
 #EXTINF:0,Dr. Shivago
 #EXTGRP:3speak
 https://threespeakvideo.b-cdn.net/owddvrrj/720p.m3u8
@@ -36,6 +35,7 @@ https://threespeakvideo.b-cdn.net/mmnvyjxt/720p.m3u8
 #EXTGRP:3speak
 https://threespeakvideo.b-cdn.net/qqfxlpaa/720p.m3u8
 #EXTINF:0,La importancia de llamarse Ernesto (2002)
+
 #EXTGRP:SunVip
 http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/155320.mkv
 #EXTINF:0,24/7 | CINE Retro HD
