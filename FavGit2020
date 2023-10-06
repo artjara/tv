@@ -1,14 +1,15 @@
 #EXTM3U  
    
-#EXTINF:0,Classsicc FM Radio
+#EXTINF:0,Classicc FM Radio
 #EXTGRP:Super
 https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,Musica cla
+#EXTINF:0,Milenium cla
 #EXTGRP:Super
-https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/classical.m3u
+http://streaming.promomedios.com:8018/stream/1/
 #EXTINF:0,Clasica Venice
 #EXTGRP:Super
 http://uk2.streamingpulse.com:8010/stream/1/
+
 #EXTINF:0,Calle 13 SD  (club)
 #EXTGRP:Super
 http://clubtv.link/oc0310/top6219/esp.php?c=1911
@@ -57,7 +58,7 @@ http://clubtv.link/oc0310/top6219/esp.php?c=3594
 #EXTINF:0,Mezzo HD (club)
 #EXTGRP:Super
 http://clubtv.link/oc0310/top6219/esp.php?c=3598
-#EXTINF:0,Viajar (club)
+#EXTINF:0,Molestar+ (Viajar)(club)
 #EXTGRP:Super
 http://clubtv.link/oc0310/top6219/esp.php?c=3627
 #EXTINF:0,13 HD (club)
@@ -136,9 +137,6 @@ http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 #EXTINF:0,Discovery Familia (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
-#EXTINF:0,NFL Network (tele)
-#EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
 #EXTINF:0,Antena3 (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
@@ -166,6 +164,7 @@ https://clubtv.link/oc0310/top6219/lista.php?c=a05c
 #EXTINF:0,Canal Claro SD
 #EXTGRP:Super
 https://clubtv.link/oc0310/top6219/lista.php?c=a04k
+
 
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
@@ -293,19 +292,14 @@ https://clubtv.link/oc0310/top6219/lista.php?c=a08i
 #EXTGRP:HBO Rak
 https://clubtv.link/oc0310/top6219/lista.php?c=a08k
 
-#EXTINF:0,EuropaEuropa HD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/oc0310/top6219/lista.php?c=a05x
-#EXTINF:0,EURO.Chann SD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/oc0310/top6219/lista.php?c=a06s
+
 #EXTINF:0,Sony Movies HD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/oc0310/top6219/lista.php?c=a05y
 #EXTINF:0,MyTime Movie (club)
 #EXTGRP:HBO Rak
 https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34d3b291-8092-4340-a0dc-0d279d79732f&ads_user_type=visitor
-#EXTINF:0,Film & arts HD (club)
+#EXTINF:0,LifeTime (F&A)(club)
 #EXTGRP:HBO Rak
 https://clubtv.link/oc0310/top6219/lista.php?c=a05s
 #EXTINF:0,A&E SD (club)
@@ -321,7 +315,36 @@ https://clubtv.link/oc0310/top6219/lista.php?c=a055
 #EXTGRP:HBO Rak
 https://clubtv.link/oc0310/top6219/lista.php?c=a084
 
-
+#EXTINF:0,Molestar Accion
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1925
+#EXTINF:0,Molestar Comedia
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1927
+#EXTINF:0,Molestar Drama
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1929
+#EXTINF:0,Molestar Estrenos
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1930
+#EXTINF:0,Molestar F1
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1931
+#EXTINF:0,Molestar Series
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1934
+#EXTINF:0,Molestar Seriesmania
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=1935
+#EXTINF:0,Molestar DCine
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=3610
+#EXTINF:0,Molestar Vamos
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=3619
+#EXTINF:0,Molestar Xtra
+#EXTGRP:HBO Rak
+http://clubtv.link/oc0310/top6219/esp.php?c=3620
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
@@ -759,3 +782,4 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Vive Kanal D Drama
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
+
