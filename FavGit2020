@@ -165,7 +165,6 @@ https://clubtv.link/oc0310/top6219/lista.php?c=a05c
 #EXTGRP:Super
 https://clubtv.link/oc0310/top6219/lista.php?c=a04k
 
-
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/oc0310/top6219/lista.php?c=72&f=.m3u8
@@ -184,7 +183,6 @@ http://clubtv.link/oc0310/top6219/lista.php?c=215&f=.m3u8
 #EXTINF:0,HBO Signature (club)
 #EXTGRP:HBO Rak 
 http://clubtv.link/oc0310/top6219/lista.php?c=182&f=.m3u8
-
 
 #EXTINF:0,HBO (tele)
 #EXTGRP:HBO Rak
@@ -291,7 +289,6 @@ https://clubtv.link/oc0310/top6219/lista.php?c=a08i
 #EXTINF:0,Universal Reality
 #EXTGRP:HBO Rak
 https://clubtv.link/oc0310/top6219/lista.php?c=a08k
-
 
 #EXTINF:0,Sony Movies HD (club)
 #EXTGRP:HBO Rak
@@ -455,7 +452,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTGRP:Latino Inter
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=57fa5e00-c822-4695-a1a3-67a17cbea916&ads.user_type=visitor&ads.wurl_channel=988
 
-
 #EXTINF:0,Mu:MusicTop
 #EXTGRP:Musica
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
@@ -592,7 +588,6 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTGRP:Documentales
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
 
-
 #EXTINF:0,Cine Sureno(1080p)
 #EXTGRP:Cine
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -623,7 +618,6 @@ https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Movies Central by TV Player
 #EXTGRP:Cine
 https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mctves-rakuten/CDN/playlist.m3u8?ads_amagi_channel=825&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4440&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=09d00771-0a0a-4984-8852-5138bf91930b&ads_user_type=visitor
-
 
 #EXTINF:0,Universal Crime
 #EXTGRP:Teleclub
@@ -782,4 +776,3 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Vive Kanal D Drama
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
-
