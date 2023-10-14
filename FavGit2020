@@ -10,7 +10,7 @@ http://streaming.promomedios.com:8018/stream/1/
 #EXTGRP:Super
 http://uk2.streamingpulse.com:8010/stream/1/
 
-#EXTINF:0,Calle 13 SD  (club)
+#EXTINF:0,Calle 13 SD (club)
 #EXTGRP:Super
 http://clubtv.link/oc1210/key4516/esp.php?c=1911
 #EXTINF:0,Cine y Varios + (club)
@@ -102,16 +102,16 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
 #EXTINF:0,Lifetime (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/LIFETIME/index.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
 #EXTINF:0,CNN en Espanol (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/CNN_ESPANOL/index.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:0,Canal E! (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/CANAL_E/index.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
 #EXTINF:0,Antena 3 (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/ANTENA3/index.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
 #EXTINF:0,Discovery Turbo (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
@@ -138,33 +138,31 @@ http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
 #EXTINF:0,Antena3 (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/ANTENA3/index.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
 #EXTINF:0,Universal Crime (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_CRIME/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8
 #EXTINF:0,Universal Comedy (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_COMEDY/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 #EXTINF:0,Universal TV (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_TV/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
 #EXTINF:0,Universal Premiere (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality (tele)
 #EXTGRP:Super
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
-
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
 #EXTINF:0,Star TVE HD (club)
 #EXTGRP:Super
 https://clubtv.link/oc1210/key4516/lista.php?c=a061
-#EXTINF:0,CNNE SD
+#EXTINF:0,CNNE SD (club)
 #EXTGRP:Super
 https://clubtv.link/oc1210/key4516/lista.php?c=a05c
-#EXTINF:0,Canal Claro SD
+#EXTINF:0,Canal Claro SD (club)
 #EXTGRP:Super
 https://clubtv.link/oc1210/key4516/lista.php?c=a04k
-
 
 #EXTINF:0,HBO 2 (club)
 #EXTGRP:HBO Rak 
@@ -187,28 +185,28 @@ http://clubtv.link/oc1210/key4516/lista.php?c=182&f=.m3u8
 
 #EXTINF:0,HBO (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 #EXTINF:0,HBO 2 (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_2/index.m3u8
-#EXTINF:0,HBO + (tele)
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:0,HBO+ (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_PLUS/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 #EXTINF:0,HBO Mundi (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_MUNDI/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8
 #EXTINF:0,HBO Pop (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_POP/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8
 #EXTINF:0,HBO Signature (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_SIGNATURE/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 #EXTINF:0,HBO Xtreme (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_XTREME/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
 #EXTINF:0,HBO Family (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_FAMILY/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
 #EXTINF:0,Rak2. Topp
 #EXTGRP:HBO Rak
@@ -275,7 +273,7 @@ https://clubtv.link/oc1210/key4516/lista.php?c=a05z
 #EXTINF:0,DHE SD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/oc1210/key4516/lista.php?c=a02x
-#EXTINF:0,Universal Cinema
+#EXTINF:0,Universal Cinema  (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/oc1210/key4516/lista.php?c=a0a3
 #EXTINF:0,Universal Comedia (club)
@@ -290,6 +288,7 @@ https://clubtv.link/oc1210/key4516/lista.php?c=a08i
 #EXTINF:0,Universal Reality (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/oc1210/key4516/lista.php?c=a08k
+
 #EXTINF:0,Sony Movies HD (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/oc1210/key4516/lista.php?c=a05y
@@ -315,7 +314,7 @@ https://clubtv.link/oc1210/key4516/lista.php?c=a084
 #EXTINF:0,Molestar Accion
 #EXTGRP:HBO Rak
 http://clubtv.link/oc1210/key4516/esp.php?c=1925
-#EXTINF:0,Molestar Comedia (club)
+#EXTINF:0,Molestar Comedia  (club)
 #EXTGRP:HBO Rak
 http://clubtv.link/oc1210/key4516/esp.php?c=1927
 #EXTINF:0,Molestar Drama (club)
@@ -345,22 +344,22 @@ http://clubtv.link/oc1210/key4516/esp.php?c=3620
 
 #EXTINF:0,Universal Premiere (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
 #EXTINF:0,Universal Crime (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_CRIME/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8
 #EXTINF:0,Universal Comedy (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_COMEDY/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 #EXTINF:0,Star Channel (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/STAR_CHANNEL/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
 #EXTINF:0,Universal TV (tele)
 #EXTGRP:HBO Rak
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_TV/index.m3u8
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
 
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
@@ -470,6 +469,7 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0,BBC Drama
 #EXTGRP:Latino Inter
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=57fa5e00-c822-4695-a1a3-67a17cbea916&ads.user_type=visitor&ads.wurl_channel=988
+
 
 #EXTINF:0,Mu:MusicTop
 #EXTGRP:Musica
@@ -607,6 +607,7 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTGRP:Documentales
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
 
+
 #EXTINF:0,Cine Sureno(1080p)
 #EXTGRP:Cine
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -637,6 +638,7 @@ https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Movies Central by TV Player
 #EXTGRP:Cine
 https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mctves-rakuten/CDN/playlist.m3u8?ads_amagi_channel=825&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4440&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=09d00771-0a0a-4984-8852-5138bf91930b&ads_user_type=visitor
+
 
 #EXTINF:0,Universal Crime
 #EXTGRP:Teleclub
@@ -710,111 +712,6 @@ http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality
 #EXTGRP:Teleclub
 http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
-#EXTINF:0,Star Channel
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/STAR_CHANNEL/index.m3u8
-#EXTINF:0,Universal TV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_TV/index.m3u8
-#EXTINF:0,Warner TV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/WARNER_TV/index.m3u8
-#EXTINF:0,AXN
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/AXN/index.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/PARAMOUNT/index.m3u8
-#EXTINF:0,Studio Universal
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:0,FX
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/FX/index.m3u8
-#EXTINF:0,TBS
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/TBS/index.m3u8
-#EXTINF:0,TNT
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/TNT/index.m3u8
-#EXTINF:0,TNT Series
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/TNT_SERIES/index.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/CINEMAX/index.m3u8
-#EXTINF:0,Sony
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/SONY/index.m3u8
-#EXTINF:0,DePelicula
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/DEPELICULA/index.m3u8
-#EXTINF:0,Cinecanal
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/CINECANAL/index.m3u8
-#EXTINF:0,HBO
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO/index.m3u8
-#EXTINF:0,HBO 2
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_2/index.m3u8
-#EXTINF:0,HBO +
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_PLUS/index.m3u8
-#EXTINF:0,HBO Mundi
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_MUNDI/index.m3u8
-#EXTINF:0,HBO Pop
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_POP/index.m3u8
-#EXTINF:0,HBO Signature
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_SIGNATURE/index.m3u8
-#EXTINF:0,HBO Xtreme
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_XTREME/index.m3u8
-#EXTINF:0,HBO Family
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/HBO_FAMILY/index.m3u8
-#EXTINF:0,Golden
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN/index.m3u8
-#EXTINF:0,Golden Edge
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_EDGE/index.m3u8
-#EXTINF:0,Golden Premier
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_PREMIER/index.m3u8
-#EXTINF:0,Golden Plus
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_PLUS/index.m3u8
-#EXTINF:0,AMC
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/AMC/index.m3u8
-#EXTINF:0,SPACE
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/SPACE/index.m3u8
-#EXTINF:0,Universal Premiere
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
-#EXTINF:0,Universal Reality
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
-#EXTINF:0,HGTV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
-#EXTINF:0,CNN en EspaÃ±ol
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/CNN_ESPANOL/index.m3u8
-#EXTINF:0,Lifetime
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/LIFETIME/index.m3u8
-#EXTINF:0,Univision
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVISION/index.m3u8
-#EXTINF:0,Antena 3
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/ANTENA3/index.m3u8
 
 #EXTINF:0,Simpson Maniahd189
 #EXTGRP:247 ClubTv
@@ -831,9 +728,9 @@ https://clubtv.link/oc1210/key4516/24.php?c=a_neflix01
 #EXTINF:0,Cheli Cooper
 #EXTGRP:247 ClubTv
 https://clubtv.link/oc1210/key4516/24.php?c=cheli_cooper
-#EXTINF:0,CineTeleclub Plus
+#EXTINF:0,Cinemundo Plus
 #EXTGRP:247 ClubTv
-https://clubtv.link/oc1210/key4516/24.php?c=cineTeleclub_plus
+https://clubtv.link/oc1210/key4516/24.php?c=cinemundo_plus
 #EXTINF:0,Peliculas Mania
 #EXTGRP:247 ClubTv
 https://clubtv.link/oc1210/key4516/24.php?c=peliculas_mania
@@ -900,4 +797,3 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Vive Kanal D Drama
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
-
