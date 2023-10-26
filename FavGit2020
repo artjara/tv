@@ -10,9 +10,6 @@ http://streaming.promomedios.com:8018/stream/1/
 #EXTGRP:Super
 http://uk2.streamingpulse.com:8010/stream/1/
 
-#EXTINF:0,#0 SD
-#EXTGRP:ClubEs
-http://clubtv.link/2410oc/top77645/esp.php?c=51609
 #EXTINF:0,#Vamos HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=51678
@@ -34,21 +31,12 @@ http://clubtv.link/2410oc/top77645/esp.php?c=48666
 #EXTINF:0,Antena 3 HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=2253
-#EXTINF:0,AXN FullHD
+#EXTINF:0,AXN FHD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=48443
-#EXTINF:0,AXN White FHD
-#EXTGRP:ClubEs
-http://clubtv.link/2410oc/top77645/esp.php?c=48441
 #EXTINF:0,AXN White HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=2387
-#EXTINF:0,Bein LaLiga bar FullHD
-#EXTGRP:ClubEs
-http://clubtv.link/2410oc/top77645/esp.php?c=48445
-#EXTINF:0,Calle 13 FHD
-#EXTGRP:ClubEs
-http://clubtv.link/2410oc/top77645/esp.php?c=48427
 #EXTINF:0,Clan TV HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=51577
@@ -61,12 +49,6 @@ http://clubtv.link/2410oc/top77645/esp.php?c=48667
 #EXTINF:0,FOX FHD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=53665
-#EXTINF:0,FOX Life FHD
-#EXTGRP:ClubEs
-http://clubtv.link/2410oc/top77645/esp.php?c=53666
-#EXTINF:0,FOX NEWS
-#EXTGRP:ClubEs
-http://clubtv.link/2410oc/top77645/esp.php?c=4403
 #EXTINF:0,Hollywood FHD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=48430
@@ -130,10 +112,10 @@ http://clubtv.link/2410oc/top77645/esp.php?c=48439
 #EXTINF:0,Nat Geo Wild HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=2383
-#EXTINF:0,National Geo FHD
+#EXTINF:0,Nat Geo FHD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=48437
-#EXTINF:0,National Geo HD
+#EXTINF:0,Nat Geo HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=2382
 #EXTINF:0,Neox HD
@@ -208,7 +190,6 @@ http://clubtv.link/2410oc/top77645/esp.php?c=2380
 #EXTINF:0,Cosmo HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=53664
-#EXTINF:0,ESP
 #EXTINF:0,Cuatro HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=2254
@@ -218,7 +199,7 @@ http://clubtv.link/2410oc/top77645/esp.php?c=2255
 #EXTINF:0,AXN HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=2388
-#EXTINF:0,Calle 13 HD
+#EXTINF:0,Callee 13 HD
 #EXTGRP:ClubEs
 http://clubtv.link/2410oc/top77645/esp.php?c=1222
 #EXTINF:0,TCM HD
@@ -288,34 +269,6 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 #EXTINF:0,Universal Reality (tele)
 #EXTGRP:Super
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
-#EXTINF:0,Star TVE HD (club)
-#EXTGRP:Super
-https://clubtv.link/2410oc/top77645/lista.php?c=a061
-#EXTINF:0,CNNE SD (club)
-#EXTGRP:Super
-https://clubtv.link/2410oc/top77645/lista.php?c=a05c
-#EXTINF:0,Canal Claro SD (club)
-#EXTGRP:Super
-https://clubtv.link/2410oc/top77645/lista.php?c=a04k
-
-#EXTINF:0,HBO 2 (club)
-#EXTGRP:HBO Rak 
-http://clubtv.link/2410oc/top77645/lista.php?c=72&f=.m3u8
-#EXTINF:0,HBO 2-USA (club)
-#EXTGRP:HBO Rak 
-http://clubtv.link/2410oc/top77645/lista.php?c=223&f=.m3u8
-#EXTINF:0,HBO Family (club)
-#EXTGRP:HBO Rak 
-http://clubtv.link/2410oc/top77645/lista.php?c=73&f=.m3u8
-#EXTINF:0,HBO Family-USA (club)
-#EXTGRP:HBO Rak 
-http://clubtv.link/2410oc/top77645/lista.php?c=224&f=.m3u8
-#EXTINF:0,HBO Plus (club)
-#EXTGRP:HBO Rak 
-http://clubtv.link/2410oc/top77645/lista.php?c=215&f=.m3u8
-#EXTINF:0,HBO Signature (club)
-#EXTGRP:HBO Rak 
-http://clubtv.link/2410oc/top77645/lista.php?c=182&f=.m3u8
 
 #EXTINF:0,HBO (tele)
 #EXTGRP:HBO Rak
@@ -400,81 +353,6 @@ https://clubtv.link/2410oc/top77645/runtime.php?c=5106
 #EXTINF:0,RunTime CombaTV (club)
 #EXTGRP:HBO Rak
 https://clubtv.link/2410oc/top77645/runtime.php?c=5090
-
-#EXTINF:0,DHE (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a05z
-#EXTINF:0,DHE SD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a02x
-#EXTINF:0,Universal Cinema  (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a0a3
-#EXTINF:0,Universal Comedia (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a08m
-#EXTINF:0,Universal Crimen (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a08l
-#EXTINF:0,Universal Premiere (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a08i
-#EXTINF:0,Universal Reality (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a08k
-
-#EXTINF:0,Sony Movies HD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a05y
-#EXTINF:0,MyTime Movie (club)
-#EXTGRP:HBO Rak
-https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34d3b291-8092-4340-a0dc-0d279d79732f&ads_user_type=visitor
-#EXTINF:0,LifeTime (F&A)(club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a05s
-#EXTINF:0,A&E SD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a07u
-#EXTINF:0,Claro Cinema SD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a083
-#EXTINF:0,Life Time SD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a055
-#EXTINF:0,Star Channel HD (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/top77645/lista.php?c=a084
-
-#EXTINF:0,Molestar Accion
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1925
-#EXTINF:0,Molestar Comedia  (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1927
-#EXTINF:0,Molestar Drama (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1929
-#EXTINF:0,Molestar Estrenos (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1930
-#EXTINF:0,Molestar F1 (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1931
-#EXTINF:0,Molestar Series (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1934
-#EXTINF:0,Molestar Seriesmania (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=1935
-#EXTINF:0,Molestar DCine (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=3610
-#EXTINF:0,Molestar Vamos (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=3619
-#EXTINF:0,Molestar Xtra (club)
-#EXTGRP:HBO Rak
-http://clubtv.link/2410oc/top77645/esp.php?c=3620
 
 #EXTINF:0,Universal Premiere (tele)
 #EXTGRP:HBO Rak
