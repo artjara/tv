@@ -613,3 +613,29 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
 
+#EXTINF:0,Clasic FM Radio
+#EXTGRP:Clasic
+https://edge.mixlr.com/channel/asnfw
+#EXTINF:0,Milenium class
+#EXTGRP:Clasic
+http://streaming.promomedios.com:8018/stream/1/
+#EXTINF:0,Clasicaa Venice
+#EXTGRP:Clasic
+http://uk2.streamingpulse.com:8010/stream/1/
+
+#EXTINF:0,Hoy toca1
+#EXTGRP:Clasic
+https://22703.mc.tritondigital.com/IVOOX_0_128_P/media-session/ec8f432d-8dfc-4612-be73-e07c13870917/f84fcc70e8-ensenar-hoy-toca-audios-mp3_mw_119918774_a154fac3fd7af3ffc2e0b500aef55000b09f1e1b9d78558fbfd4258b500bf667_1.mp3
+
+#EXTINF:0,Hoy toca Santa Ce
+#EXTGRP:Clasic
+https://d3uq9vzdmwnq5u.cloudfront.net/v1/download/santacecilianuestrasbandascuentamem-clasicafmradiomusicaclasica-ivoox119745798.mp3
+
+#EXTINF:0,Con el jazz hemos topado
+#EXTGRP:Clasic
+https://22703.mc.tritondigital.com/IVOOX_0_128_P/media-session/4d945480-0387-42fb-99e5-f439115d9d21/51b5594ca9-pindio-ii-juan-saiz-i-con-el-audios-mp3_mw_119321961_fb9d9c09820467a30234d275d1efcbe49fb6c8799ee94246d0db35e1d0515487_1.mp3
+
+#EXTINF:0,polonia
+#EXTGRP:Clasic
+https://d3uq9vzdmwnq5u.cloudfront.net/vivapoloniacuentamemasmusica-clasicafmradiomusicaclasica-ivoox119338701.mp3
+
