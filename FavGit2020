@@ -613,29 +613,42 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
 
-#EXTINF:0,Clasic FM Radio
-#EXTGRP:Clasic
-https://edge.mixlr.com/channel/asnfw
-#EXTINF:0,Milenium class
-#EXTGRP:Clasic
-http://streaming.promomedios.com:8018/stream/1/
-#EXTINF:0,Clasicaa Venice
-#EXTGRP:Clasic
-http://uk2.streamingpulse.com:8010/stream/1/
-
-#EXTINF:0,Hoy toca1
+#EXTINF:0,1 Hoy toca1
 #EXTGRP:Clasic
 https://22703.mc.tritondigital.com/IVOOX_0_128_P/media-session/ec8f432d-8dfc-4612-be73-e07c13870917/f84fcc70e8-ensenar-hoy-toca-audios-mp3_mw_119918774_a154fac3fd7af3ffc2e0b500aef55000b09f1e1b9d78558fbfd4258b500bf667_1.mp3
 
-#EXTINF:0,Hoy toca Santa Ce
+#EXTINF:0,2 Hoy toca Santa Ce
 #EXTGRP:Clasic
 https://d3uq9vzdmwnq5u.cloudfront.net/v1/download/santacecilianuestrasbandascuentamem-clasicafmradiomusicaclasica-ivoox119745798.mp3
 
-#EXTINF:0,Con el jazz hemos topado
+#EXTINF:0,3 Con el jazz hemos topado
 #EXTGRP:Clasic
 https://22703.mc.tritondigital.com/IVOOX_0_128_P/media-session/4d945480-0387-42fb-99e5-f439115d9d21/51b5594ca9-pindio-ii-juan-saiz-i-con-el-audios-mp3_mw_119321961_fb9d9c09820467a30234d275d1efcbe49fb6c8799ee94246d0db35e1d0515487_1.mp3
 
-#EXTINF:0,polonia
+#EXTINF:0,4 Polonia
 #EXTGRP:Clasic
 https://d3uq9vzdmwnq5u.cloudfront.net/vivapoloniacuentamemasmusica-clasicafmradiomusicaclasica-ivoox119338701.mp3
+
+#EXTINF:0,5 El Amor
+#EXTGRP:Clasic
+https://www.ivoox.com/listenembeded_mn_103002832_1.m4a
+
+#EXTINF:0,6 Poemas sinfonicos
+#EXTGRP:Clasic
+https://22643.mc.tritondigital.com/IVOOX_0_128_P/media-session/2ea3e481-d977-4472-bbc2-80529d8eed36/36ed675cf1-hoy-toca-poemas-sinfonicos-3-audios-mp3_mw_105254522_8258ebd378cbb0d17bab1fff823e46e99af0227806f1eb6cf58f7eb9ff81eb10_1.mp3
+
+#EXTINF:0,7 Los timbales
+#EXTGRP:Clasic
+https://22643.mc.tritondigital.com/IVOOX_0_128_P/media-session/337590f5-28be-47e1-9cf3-8cacee539eff/7528b54457-hoy-toca-los-timbales-audios-mp3_mw_107717971_efd8239fe37aa1d4f77cc62e92f0d3f8239babe01a6d81362766715014881b9f_1.mp3
+
+#EXTINF:0,8 Concert Piano
+#EXTGRP:Clasic
+https://22643.mc.tritondigital.com/IVOOX_0_128_P/media-session/b6727300-6a64-4681-b259-1780edfe9151/77f74e5ac6-hoy-toca-conciertos-para-piano-sensacionales-audios-mp3_mw_108703410_91ec099a30f84e3474ff2a574bd3b1573182365a4cfcc7a8a0a52322d08f611b_1.mp3
+
+#EXTINF:0,9 Joyas orquestales
+#EXTGRP:Clasic
+https://22643.mc.tritondigital.com/IVOOX_0_128_P/media-session/1e51e638-d46d-4a16-9b69-ac396d31cc70/c12e5a444a-joyas-orquestales-6-hoy-toca-audios-mp3_mw_116707807_e071655f9522bc0d3b40358384c89f7970df6483e836e745480f75daae55336c_1.mp3
+
+
+
 
