@@ -1,12 +1,9 @@
 #EXTM3U
    
-#EXTINF:0,Clasic FM Radio
-#EXTGRP:Super
-https://edge.mixlr.com/channel/asnfw
 #EXTINF:0,Milenium class
 #EXTGRP:Super
 http://streaming.promomedios.com:8018/stream/1/
-#EXTINF:0,Clasicaaaa Venice
+#EXTINF:0,Clasica Venice
 #EXTGRP:Super
 http://uk2.streamingpulse.com:8010/stream/1/
 
@@ -121,42 +118,6 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:HBO Rak
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3289&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d9bb8d4c-a6c3-46f9-9c3d-793bc499b682&ads.user_type=visitor&ads.wurl_channel=890
 
-#EXTINF:0,RunTime (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=2154
-#EXTINF:0,RunTime Accion (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=2550
-#EXTINF:0,RunTime Comedia (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=2551
-#EXTINF:0,RunTime Crimen (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=3533
-#EXTINF:0,RunTime Cine Espanto (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=3539
-#EXTINF:0,RunTime Cinema (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=4819
-#EXTINF:0,RunTime Clic (club)	
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=4827
-#EXTINF:0,RunTime Corazon (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=4826
-#EXTINF:0,RunTime Romance (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=3532
-#EXTINF:0,RunTime Familia (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=3528
-#EXTINF:0,RunTime AYM (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=5106
-#EXTINF:0,RunTime CombaTV (club)
-#EXTGRP:HBO Rak
-https://clubtv.link/2410oc/key7132/runtime.php?c=5090
 
 #EXTINF:0,Universal Premiere (tele)
 #EXTGRP:HBO Rak
@@ -180,30 +141,20 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
 #EXTINF:0,13Max Television.ar 1080
 #EXTGRP:Latino Inter
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:0,A M C
-#EXTGRP:Latino Inter
-https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east0/6240731308001/playlist.m3u8
 #EXTINF:0,Ame 47
 #EXTGRP:Latino Inter
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:0,Antares
 #EXTGRP:Latino Inter
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0,Antena SeisTV (720p)
-#EXTGRP:Latino Inter
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
-#EXTINF:0,BBC America(720p)
-#EXTGRP:Latino Inter
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:0,Canal 24 Horas(720p)
 #EXTGRP:Latino Inter
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0,Canal 24 Horas Canarias(576p)
 #EXTGRP:Latino Inter
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:0,Carivisionn
-#EXTGRP:Latino Inter
-https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+
 #EXTINF:0,DW esp1080
 #EXTGRP:Latino Inter
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -255,9 +206,7 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0,Int:CGTN en
 #EXTGRP:Latino Inter
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,Ar:TLX Telemax
-#EXTGRP:Latino Inter
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
 #EXTINF:0,Cr:TeleSur
 #EXTGRP:Latino Inter
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
@@ -273,31 +222,16 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:0,Int: CGTN ES
 #EXTGRP:Latino Inter
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,Cr:Telesur CR
-#EXTGRP:Latino Inter
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0,Cr:Extrema TV
 #EXTGRP:Latino Inter
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,Cr:TeleSur cr
-#EXTGRP:Latino Inter
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:0,BBC Drama
 #EXTGRP:Latino Inter
 https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3877&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=57fa5e00-c822-4695-a1a3-67a17cbea916&ads.user_type=visitor&ads.wurl_channel=988
 
-#EXTINF:0,Mu:MusicTop
-#EXTGRP:Musica
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:0,Int:Cultura 24
-#EXTGRP:Musica
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:0,Mx:Telemax
 #EXTGRP:Latino Inter
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:0,Clasica FM Radio
-#EXTGRP:Musica
-https://edge.mixlr.com/channel/asnfw
 #EXTINF:0,U Antioquia radio
 #EXTGRP:Musica
 https://liveingesta118.cdnmedia.tv/uantioquialive/smil:rtmp01.smil/playlist.m3u8
@@ -409,19 +343,13 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:0,Buen Viaje
 #EXTGRP:Documentales
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991768/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=IndigeniusBuenViajeSpanish&ads.csid=zeus_es_indigeniusbuenviajespanish_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3686&ads.rakuten_streaming_id=1d4d6bec-e55a-439b-bfa2-8114e73bc129&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991768&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBuenViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=IndigeniusBuenViajeSpanish
-#EXTINF:0,The Pet Collective
+
+#EXTINF:0,Vivir con Gatos
 #EXTGRP:Documentales
-https://6d185bb7400e446f89481c43da8a579c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ThePetCollective/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=48&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=7640acf2-baa7-45d0-a8e7-235ea1cbde07&ads.user_type=visitor&ads.wurl_channel=152
-#EXTINF:0,People Are Awesome
-#EXTGRP:Documentales
-https://3f01356fd70c4daba7be812b88108d0e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=96&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=9a0d3d11-0346-463b-a480-0b9fc2727075&ads.user_type=visitor&ads.wurl_channel=386
-#EXTINF:0,Vivir co Gatos
-#EXTGRP:Documentales
-https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8    okokok
-#EXTINF:0,Vivir co Perros
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
+#EXTINF:0,Vivir con Perros
 #EXTGRP:Documentales
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
-
 
 #EXTINF:0,Cine Sureno(1080p)
 #EXTGRP:Cine
@@ -429,9 +357,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:0,CineAr 720
 #EXTGRP:Cine
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:0,Euro Channel
-#EXTGRP:Cine
-https://mfe01.tring.al/delta/106/out/u/1120_3.m3u8
 #EXTINF:0,MyTime Movie Network
 #EXTGRP:Cine
 https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34d3b291-8092-4340-a0dc-0d279d79732f&ads_user_type=visitor
@@ -441,9 +366,7 @@ https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Crimen TV
 #EXTGRP:Cine
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991769/master.m3u8?+ads.xumo_contentId=2192&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=2c5d2749-4e7f-442d-b627-2d5ee9f4782b&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991769&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish
-#EXTINF:0,Cortos
-#EXTGRP:Cine
-https://amg00784-shortsinternati-shortstvfastes-rakuten-pdzlz.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastspain-rakuten/CDN/master.m3u8?ads_amagi_channel=772&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3579&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e44dc5b5-a857-46cc-9a7c-fb50303aeeda&ads_user_type=visitor
+
 #EXTINF:0,Dark Matter
 #EXTGRP:Cine
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=a7ab2045-3df0-4bf0-a63f-8da7ba63fbac&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991783&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES
@@ -454,149 +377,6 @@ https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTGRP:Cine
 https://alchimie-mctves-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mctves-rakuten/CDN/playlist.m3u8?ads_amagi_channel=825&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4440&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=09d00771-0a0a-4984-8852-5138bf91930b&ads_user_type=visitor
 
-
-#EXTINF:0,Universal Crime
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_CRIME/index.m3u8
-#EXTINF:0,Universal Comedy
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_COMEDY/index.m3u8
-#EXTINF:0,Star Channel
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/STAR_CHANNEL/index.m3u8
-#EXTINF:0,Universal TV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_TV/index.m3u8
-#EXTINF:0,Warner TV
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/WARNER_TV/index.m3u8
-#EXTINF:0,AXN
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/AXN/index.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/PARAMOUNT/index.m3u8
-#EXTINF:0,Studio Universal
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:0,FX
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/FX/index.m3u8
-#EXTINF:0,TBS
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/TBS/index.m3u8
-#EXTINF:0,TNT
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/TNT/index.m3u8
-#EXTINF:0,TNT Series
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/TNT_SERIES/index.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/CINEMAX/index.m3u8
-#EXTINF:0,Sony
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/SONY/index.m3u8
-#EXTINF:0,DePelicula
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/DEPELICULA/index.m3u8
-#EXTINF:0,Cinecanal
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/CINECANAL/index.m3u8
-#EXTINF:0,Golden
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN/index.m3u8
-#EXTINF:0,Golden Edge
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_EDGE/index.m3u8
-#EXTINF:0,Golden Premier
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_PREMIER/index.m3u8
-#EXTINF:0,Golden Plus
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/GOLDEN_PLUS/index.m3u8
-#EXTINF:0,AMC
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/AMC/index.m3u8
-#EXTINF:0,SPACE
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/SPACE/index.m3u8
-#EXTINF:0,Universal Premiere
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_PREMIERE/index.m3u8
-#EXTINF:0,Universal Reality
-#EXTGRP:Teleclub
-http://tv.teleclub.xyz/envivo/Teleclub/UNIVERSAL_REALITY/index.m3u8
-
-#EXTINF:0,Simpson Maniahd189
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=simpson_maniahd189
-#EXTINF:0,Punto Movies
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=punto_movies
-#EXTINF:0,Beto 7hd
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=beto_7hd
-#EXTINF:0,Neflix01
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=a_neflix01
-#EXTINF:0,Cheli Cooper
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=cheli_cooper
-#EXTINF:0,Cinemundo Plus
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=cinemundo_plus
-#EXTINF:0,Peliculas Mania
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=peliculas_mania
-#EXTINF:0,Terror Mania
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=terror_mania
-#EXTINF:0,Shay Saheed
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=shay_saheed
-#EXTINF:0,Simpson Maniahd192
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=simpson_maniahd192
-#EXTINF:0,A Juanmusic
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=a_juanmusic
-#EXTINF:0,Cienciaficcion
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=cienciaficcion
-#EXTINF:0,Cienciaficcion01
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=cienciaficcion01
-#EXTINF:0,Padre de Familia
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=padre_de_familia1
-#EXTINF:0,Futurama
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=futurama_mania_
-#EXTINF:0,Agente de Familia
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=agente_de_familia1
-#EXTINF:0,Disney
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=0ueen_disney
-#EXTINF:0,2312
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=2312
-#EXTINF:0,Ganja Gv
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=ganja_tv
-#EXTINF:0,Malcomhd
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=malcomhd
-#EXTINF:0,Ganja Tv 2
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=ganja_tv_2
-#EXTINF:0,zonafilmstvseries
-#EXTGRP:247 ClubTv
-https://clubtv.link/2410oc/key7132/24.php?c=zonafilmstvseries
-#EXTINF:0, John Wick 4
-#EXTGRP:247 ClubTv
-http://clubtv.link/2410oc/key7132/movies.php?c=johnw4
 #EXTINF:-1,Incriminando a John DeLorean.victor (2019)
 #EXTGRP:247 ClubTv
 http://elmonkey.us:25461/movie/Victor/Victor/78865.mp4
@@ -612,9 +392,6 @@ https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Vive Kanal D Drama
 #EXTGRP:247 ClubTv
 https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=db3f3c32-f9d9-40dd-93b3-39f7f82722f9&ads_user_type=visitor
-
-
-#EXTM3U
 
 #EXTINF:0,Hoy toca1
 #EXTGRP:Clasic
@@ -695,4 +472,3 @@ https://www.ivoox.com/listenembeded_mn_119338701_1.mp3?source=EMBEDEDHTML5
 #EXTINF:0,4 saxos
 #EXTGRP:Clasic
 https://www.ivoox.com/listenembeded_mn_118956129_1.mp3?source=EMBEDEDHTML5
-
