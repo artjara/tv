@@ -10,9 +10,6 @@ http://192.168.3.102/xx/xvideo/fontaneros.mp4
 #EXTGRP:Local
 http://192.168.3.102/xx/xvideo/tama.mp3
 
-#EXTINF:0,Musica cla
-#EXTGRP:Musica
-https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/classical.m3u
 #EXTINF:0,Clasica Venice
 #EXTGRP:Musica
 http://uk2.streamingpulse.com:8010/stream/1/
