@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="PC_Sam",Brueghel 1
+http://192.168.3.100/Brueghel%20el%20Viejo%20450.mp4
+
+#EXTINF:-1 group-title="PC_Sam",Civilizaciones de la Antiguedad 2
+http://192.168.3.100/Civilizaciones%20de%20la%20Antiguedad.mp4
+
+#EXTINF:-1 group-title="PC_Sam",Conciero Barroco 3
+http://192.168.3.100/ConciertoBarrocoTeatroColon.nov.2021.mp4
+
+#EXTINF:-1 group-title="PC_Sam",PcSam_Amj_TV
+http://192.168.3.100/playlist.m3u8
+
+
+
+
+
+
