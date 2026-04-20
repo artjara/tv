@@ -33,18 +33,27 @@ http://192.168.3.145/mVideo/Andre.Rieu/AndreRieuTheRoyalAlbertHall.2002.Dvdrip.X
 #EXTINF:0,El Regreso del dragon
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/BruceLee/ElRegresoDelDragonBruceLee.avi
+
 #EXTINF:0,Don Camilo 1952
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/1.DonCamilo.1952.Fernandel.avi
+
 #EXTINF:0,El Retorno de Don Camilo 1953
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/2.ElRetornoDeDonCamilo.1953.avi
+
 #EXTINF:0,Don Camilo Honorable Pepone 1955
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/3.DonCamilo.y.ElHonorablePeppone.1955.avi
+
 #EXTINF:0,Don Camilo Monsenor 1961
 #EXTGRP:Pelis_Janus
-http://192.168.3.145/mVideo/DonCamilo/4.DonCamiloMonseÃ±or.1961.dvdrip.divxclasico com.avi
+http://192.168.3.145/mVideo/DonCamilo/4.DonCamiloMonsenor.1961.dvdrip.divxclasico com.avi
+
+#EXTINF:0,El Camarada Don Camilo 1965
+#EXTGRP:Pelis_Janus
+http://192.168.3.145/mVideo/DonCamilo/5.ElCamaradaDonCamilo.1965.avi
+
 #EXTINF:0,El Espia
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/Varios/El espia (DVDScreener) (EliteMula.com)-ELM.avi
@@ -83,7 +92,7 @@ http://192.168.3.145/mVideo/Varios/Sexo.A.La.Carta.Spanish.(AC3).[DVDRip].divx.a
 http://192.168.3.145/mVideo/Varios/Wanted.Se.Busca.HDAudio.DVD.Spanish.XviD.MP3.HDE.avi
 #EXTINF:0,La Aventura del Poseidon
 #EXTGRP:Pelis_Janus
-http://192.168.3.145/mVideo/Varios/PoseidÃ³n 1080p.DuaL3.72Gb.mkv
+http://192.168.3.145/mVideo/Varios/Poseidon 1080p.DuaL3.72Gb.mkv
 #EXTINF:0,ConciertoBarrocoTeatroColon
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/dani/ConciertoBarrocoTeatroColon.nov.2021.mp4
@@ -93,24 +102,49 @@ http://192.168.3.145/mVideo/dani/EnsambleBarroco.AlfredoBernardini.TeatroMayor.H
 #EXTINF:0,Guitarra.Teatro Mayor.2024
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/dani/Guitarra.Teatro Mayor.2024.mp4
-#EXTINF:0,El Camarada Don Camilo 1955
-#EXTGRP:unsorted
-http://192.168.3.145/mVideo/DonCamilo/5.ElCamaradaDonCamilo.1965.avi
-#EXTINF:0,Brueghel 1
+
+#EXTINF:0,Brueghel
 #EXTGRP:PC_Sam
-http://192.168.3.100/Brueghel%20el%20Viejo%20450.mp4
+http://192.168.3.100/Videos/Brueghel%20el%20Viejo%20450.mp4
+
 #EXTINF:0,Civilizaciones de la Antiguedad 2
 #EXTGRP:PC_Sam
-http://192.168.3.100/Civilizaciones%20de%20la%20Antiguedad.mp4
+http://192.168.3.100/Videos/Civilizaciones%20de%20la%20Antiguedad.mp4
+
 #EXTINF:0,Conciero Barroco 3
 #EXTGRP:PC_Sam
-http://192.168.3.100/ConciertoBarrocoTeatroColon.nov.2021.mp4
-#EXTINF:0,PcSam_Amj_TV
+http://192.168.3.100/Videos/ConciertoBarrocoTeatroColon.nov.2021.mp4
+
+#EXTINF:0,Samradio
 #EXTGRP:PC_Sam
-http://192.168.3.100/playlist.m3u8
-#EXTINF:0,BaladasSony
+http://192.168.3.100/Radio/playlist.m3u8
+
+#EXTINF:0,Baladas Sonyradio
 #EXTGRP:Pc_Sony
-http://192.168.3.187/zEmisoras/playlist.m3u8
-#EXTINF:0,BluesSony
+http://192.168.3.187/zradio/playlist.m3u8
+
+#EXTINF:0,Blues mp3 Sony
 #EXTGRP:Pc_Sony
-http://192.168.3.187/blues.mp3
+http://192.168.3.187/zradio/blues.mp3
+
+#EXTINF:0, Janusradio
+#EXTGRP:Pc_Janus
+http://192.168.3.187/Musica/zamj/playlist.m3u8
+
+#EXTINF:0,Baladas Janusradio
+#EXTGRP:Pc_Janus
+http://192.168.3.187/Musica/zamj/playlist.m3u8
+
+#EXTINF:0,Blues mp3
+#EXTGRP:Pc_Janus
+http://192.168.3.187/Musica/zamj/blues.mp3
+
+#EXTINF:0,La Pantera mp3
+#EXTGRP:Pc_Janus
+http://192.168.3.187/Musica/zamj/lapanteramambola33.mp3
+
+
+
+
+
+
