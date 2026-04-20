@@ -3,6 +3,7 @@
 #EXTINF:-1, OneNightOnly
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/BeeGees/BeeGees-OneNightOnly.AGK.avi
+
 #EXTINF:-1, Grase
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Grease/GreaseEsp.Lat.Mp3Xvid.720x480.avi
@@ -10,15 +11,19 @@ http://192.168.3.145/Grease/GreaseEsp.Lat.Mp3Xvid.720x480.avi
 #EXTINF:-1, Muerte en Venecia
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/2023/Muerte En Venecia 720p CAST 1,83 GB.mp4
+
 #EXTINF:-1, La estafa
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/2023/La estafa (2019) 1080p DUALC 1,74 GB.mp4
+
 #EXTINF:-1, Syriana
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/2024/Syriana 720p LAT 1.7 GB.mkv
+
 #EXTINF:-1, La otra cara de la luna
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/2025/La Otra Cara de la Luna (2024) 720p TRIAL 2.27 GB.mkv
+
 #EXTINF:-1, The Brutalist
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/2025/The Brutalist (2024) 1080p SUB 3.7 GB.mkv
@@ -26,9 +31,11 @@ http://192.168.3.145/2025/The Brutalist (2024) 1080p SUB 3.7 GB.mkv
 #EXTINF:-1, AndreRieu Concierto Italia
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Andre.Rieu/AndreRieuConciertoItalia.avi
+
 #EXTINF:-1, AndreRieu ArounTheWold
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Andre.Rieu/AndreRieuLoveArroundTheWorld.DivX.5mp3.32kbps.avi
+
 #EXTINF:-1, AndreRieu Royal Albert
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Andre.Rieu/AndreRieuTheRoyalAlbertHall.2002.Dvdrip.Xvid.avi
@@ -44,12 +51,15 @@ http://192.168.3.145/DonCamilo/1.DonCamilo.1952.Fernandel.avi
 #EXTINF:-1, El Retorno de Don Camilo 1953
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/DonCamilo/2.ElRetornoDeDonCamilo.1953.avi
+
 #EXTINF:-1, Don Camilo Honorable Pepone 1955
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/DonCamilo/3.DonCamilo.y.ElHonorablePeppone.1955.avi
+
 #EXTINF:-1, Don Camilo Monsenor 1961
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/DonCamilo/4.DonCamiloMonseñor.1961.dvdrip.divxclasico com.avi
+
 #EXTGRP:Pelis_Janus
 #EXTINF:-1, El Camarada Don Camilo 1955
 http://192.168.3.145/DonCamilo/5.ElCamaradaDonCamilo.1965.avi
@@ -57,37 +67,51 @@ http://192.168.3.145/DonCamilo/5.ElCamaradaDonCamilo.1965.avi
 #EXTINF:-1, El Espia
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/El espia (DVDScreener) (EliteMula.com)-ELM.avi
+
 #EXTINF:-1, El Mundo esta loco loco
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/ElMundoEstaLocoLocoLoco.1963..avi
+
 #EXTINF:-1, El Ultimo Tango
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/ElUltimoTangoEnParis.Bertolucci.M.Brando.MariaSchneider.esp.dvix1972.avi 
+
 #EXTINF:-1, Emmanuel 1974 SylviaKristel
+#EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Emmanuelle.1974.SylviaKristel.spa.avi
+
 #EXTINF:-1, Love
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Love HD SUB 865,6 MB.mp4
+
 #EXTINF:-1, Emmanuel 1080p
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Emmanuelle.1080p.1.85 Gb.mp4
+
 #EXTINF:-1, Lluvia de Dolares 1985
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Lluvia_De_Dolares_1985.mkv
+
 #EXTINF:-1, Mas Bonita que ninguna
-http://192.168.3.145/Varios/Rocio Durcal - Mas Bonita Que Ninguna(1965)(Dvdrip).avi
 #EXTGRP:Pelis_Janus
+http://192.168.3.145/Varios/Rocio Durcal - Mas Bonita Que Ninguna(1965)(Dvdrip).avi
+
 #EXTINF:-1, El Asesino
+#EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/El.Asesino.(War).-.XviD.DVDRip.(720x304).-.AC3.5.1.(ESP).avi
+
 #EXTINF:-1, Good Will Hunting 1997
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Good Will Hunting (1997) Xvid DVD Rip.avi
+
 #EXTINF:-1, Sexo a la carta
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Sexo.A.La.Carta.Spanish.(AC3).[DVDRip].divx.avi
+
 #EXTINF:-1, Se Busca
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Wanted.Se.Busca.HDAudio.DVD.Spanish.XviD.MP3.HDE.avi
+
 #EXTINF:-1, La Aventura del Poseidon
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/Varios/Poseidón 1080p.DuaL3.72Gb.mkv
@@ -95,9 +119,11 @@ http://192.168.3.145/Varios/Poseidón 1080p.DuaL3.72Gb.mkv
 #EXTINF:-1, ConciertoBarrocoTeatroColon
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/dani/ConciertoBarrocoTeatroColon.nov.2021.mp4
+
 #EXTINF:-1, EnsambleBarroco.AlfredoBernardini
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/dani/EnsambleBarroco.AlfredoBernardini.TeatroMayor.HD.My.2024.mp4
+
 #EXTINF:-1, Guitarra.Teatro Mayor.2024
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/dani/Guitarra.Teatro Mayor.2024.mp4
@@ -118,10 +144,10 @@ http://192.168.3.100/ConciertoBarrocoTeatroColon.nov.2021.mp4
 #EXTGRP:PC_Sam
 http://192.168.3.100/playlist.m3u8
 
-#EXTINF:-1,PcSony_Amj_TV
-#EXTGRP:PC_Sam
+#EXTINF:-1, BaladasSony
+#EXTGRP:Pc_Sony
 http://192.168.3.187/zEmisoras/playlist.m3u8
 
-#EXTINF:-1, Blues (Sony)
-#EXTGRP:mp3 Sony
+#EXTINF:-1, BluesSony
+#EXTGRP:Pc_Sony
 http://192.168.3.187/blues.mp3
