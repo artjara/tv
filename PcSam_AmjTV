@@ -118,6 +118,10 @@ http://192.168.3.100/ConciertoBarrocoTeatroColon.nov.2021.mp4
 #EXTGRP:PC_Sam
 http://192.168.3.100/playlist.m3u8
 
-#EXTINF:-1, Blues
+#EXTINF:-1,PcSony_Amj_TV
+#EXTGRP:PC_Sam
+http://192.168.3.187/zEmisoras/playlist.m3u8
+
+#EXTINF:-1, Blues (Sony)
 #EXTGRP:mp3 Sony
-http://192.168.3.187/musica/blues.mp3
+http://192.168.3.187/blues.mp3
