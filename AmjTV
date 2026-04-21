@@ -143,7 +143,9 @@ http://192.168.3.187/Musica/zamj/blues.mp3
 #EXTGRP:Pc_Janus
 http://192.168.3.187/Musica/zamj/lapanteramambola33.mp3
 
-
+#EXTINF:0,Radio Janus
+#EXTGRP:Pc_Janus
+http://192.168.3.145/musica/zamj/playlist.m3u8
 
 
 
