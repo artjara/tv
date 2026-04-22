@@ -37,19 +37,15 @@ http://192.168.3.145/mVideo/BruceLee/ElRegresoDelDragonBruceLee.avi
 #EXTINF:0,Don Camilo 1952
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/1.DonCamilo.1952.Fernandel.avi
-
 #EXTINF:0,El Retorno de Don Camilo 1953
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/2.ElRetornoDeDonCamilo.1953.avi
-
 #EXTINF:0,Don Camilo Honorable Pepone 1955
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/3.DonCamilo.y.ElHonorablePeppone.1955.avi
-
 #EXTINF:0,Don Camilo Monsenor 1961
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/4.DonCamiloMonsenor.1961.dvdrip.divxclasico com.avi
-
 #EXTINF:0,El Camarada Don Camilo 1965
 #EXTGRP:Pelis_Janus
 http://192.168.3.145/mVideo/DonCamilo/5.ElCamaradaDonCamilo.1965.avi
@@ -106,46 +102,40 @@ http://192.168.3.145/mVideo/dani/Guitarra.Teatro Mayor.2024.mp4
 #EXTINF:0,Brueghel
 #EXTGRP:PC_Sam
 http://192.168.3.100/Videos/Brueghel%20el%20Viejo%20450.mp4
-
 #EXTINF:0,Civilizaciones de la Antiguedad 2
 #EXTGRP:PC_Sam
 http://192.168.3.100/Videos/Civilizaciones%20de%20la%20Antiguedad.mp4
-
 #EXTINF:0,Conciero Barroco 3
 #EXTGRP:PC_Sam
 http://192.168.3.100/Videos/ConciertoBarrocoTeatroColon.nov.2021.mp4
-
-#EXTINF:0,Samradio
+#EXTINF:0,Sam Radio
 #EXTGRP:PC_Sam
 http://192.168.3.100/Radio/playlist.m3u8
 
-#EXTINF:0,Baladas Sonyradio
+#EXTINF:0,Baladas Sony radio
 #EXTGRP:Pc_Sony
 http://192.168.3.187/zradio/playlist.m3u8
-
 #EXTINF:0,Blues mp3 Sony
 #EXTGRP:Pc_Sony
 http://192.168.3.187/zradio/blues.mp3
 
-#EXTINF:0, Janusradio
+#EXTINF:0, Janus Radio
 #EXTGRP:Pc_Janus
-http://192.168.3.187/Musica/zamj/playlist.m3u8
-
-#EXTINF:0,Baladas Janusradio
-#EXTGRP:Pc_Janus
-http://192.168.3.187/Musica/zamj/playlist.m3u8
-
-#EXTINF:0,Blues mp3
-#EXTGRP:Pc_Janus
-http://192.168.3.187/Musica/zamj/blues.mp3
-
-#EXTINF:0,La Pantera mp3
-#EXTGRP:Pc_Janus
-http://192.168.3.187/Musica/zamj/lapanteramambola33.mp3
-
+http://192.168.3.145/Musica/zamj/playlist.m3u8
 #EXTINF:0,Radio Janus
 #EXTGRP:Pc_Janus
 http://192.168.3.145/musica/zamj/playlist.m3u8
+#EXTINF:0,Baladas Janus Radio
+#EXTGRP:Pc_Janus
+http://192.168.3.145/Musica/zamj/playlist.m3u8
+#EXTINF:0,Blues Janus
+#EXTGRP:Pc_Janus
+http://192.168.3.145/Musica/zamj/blues.mp3
+#EXTINF:0,La Pantera janus
+#EXTGRP:Pc_Janus
+http://192.168.3.145/Musica/zamj/lapanteramambola33.mp3
+
+
 
 
 
