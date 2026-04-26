@@ -135,8 +135,41 @@ http://192.168.3.145/Musica/zamj/blues.mp3
 #EXTGRP:Pc_Janus
 http://192.168.3.145/Musica/zamj/lapanteramambola33.mp3
 
-
-
-
+#EXTINF:0,El Gato Pardo 1963
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/ElGatoPardo.LuchinoVisconti.1963.spa.Dvdrip5.avi
+#EXTINF:0,El Halcon Maltes 1941
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/ElHalconMaltes.JohnHuston.1941.spa.avi
+#EXTINF:0,El Rally de Montecarlo 1969
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/ElRallyDeMontecarlo.1969.MontecarloOrBust.avi
+#EXTINF:0,El Ultimo Tango en Paris 1972
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/ElUltimoTangoEnParis.1972.Bertolucci.M.Brando.MariaSchneider.esp.dvix.avi 
+#EXTINF:0,Emanuelle 1974
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/Emanuelle.1974.SylviaKristel.spa.avi
+#EXTINF:0,Grand Prix 1966
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/GrandPrix.1966.spa.divx.avi
+#EXTINF:0,Le Mans 1971
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/Varios/LeMans.1971.SteveMcQuenn.avi
+#EXTINF:0,Don Camilo y ElHonorable Peppone 1955
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/DonCamilo/DonCamilo.y.ElHonorablePeppone.1955.avi
+#EXTINF:0,Don Camilo Monseñor 1961
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/DonCamilo/DonCamiloMonseñor.1961.dvdrip.divxclasico com.avi
+#EXTINF:0,El Camarada Don Camilo 1965
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/DonCamilo/ElCamaradaDonCamilo.1965.avi
+#EXTINF:0,El Retorno De Don Camilo 1953
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/DonCamilo/ElRetornoDeDonCamilo.1953.avi
+#EXTINF:0,La Huella Sleuth 1972
+#EXTGRP:PC_Asrok
+http://192.168.3.132/Peliculas/LaHuella/LaHuella.Sleuth.1972.L.Olivier_M.Caine.avi
 
 
